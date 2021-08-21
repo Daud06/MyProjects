@@ -1,39 +1,46 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import random
+import json
 import time
+import random
 
-
-username = 'daud_ahr'
+username = 'web.programmist'
 password = 'ahriev06'
 
-url = 'https://www.instagram.com/'
 
-def login(username, password):
-    browser = webdriver.Chrome('chromedriver')
-    try:
-        browser.get(url)
-        time.sleep(random.randrange(3,5))
+class InstaBot():
 
-        username_input = browser.find_element_by_name('username')
+    def __init__(self, password, username):
+        self.password = password
+        self.username = username
+        self.browser = webdriver.Chrome('chromedriver')
+
+    def browser_close(self):
+        self.browser.close()
+        self.browser.quit()
+
+    def login(self):
+        browser = self.browser
+        browser.get('https://www.instagram.com/')
+        time.sleep(random.randrange(1,5))
+
+        username_input = browser.find_elements_by_name('username')
+        username_input.clear()
         username_input.send_keys(username)
 
-        time.sleep(3)
+        time.sleep(2)
 
-        password_input = browser.find_element_by_name('password')
+        password_input = browser.find_elements_by_name('password')
         password_input.clear()
         password_input.send_keys(password)
 
-
         password_input.send_keys(Keys.ENTER)
+        time.sleep(15)
 
-        browser.close()
-        browser.quit()
-    except Exception as ex:
-        print(ex)
-        browser.close()
-        browser.quit()
 
-login(username, password)
+bot = InstaBot(password, username)
+
+bot.login()
+bot.browser_close()
 
 
