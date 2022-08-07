@@ -4,7 +4,14 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By as by
 import random
 from auth_data import password, username
+import csv
 from selenium.webdriver.common.keys import Keys
+
+with open('GameParse.csv', 'w') as file:
+    writer = csv.writer(file)
+    writer.writerow(
+        ('App name', 'Revenue', 'US percent of revenue', 'Downloads', 'US percent of downloads')
+    )
 
 class GameParse():
 
@@ -66,36 +73,57 @@ class GameParse():
         i = 1
         app_links = []
         for app in top_apps:
+            if i < 13:
+                i+=1
+                continue
             app_name = app.find('a', class_ = 'g-app-name').text
             app_link = 'https://appmagic.rocks/' + app.find('a', class_ = 'g-app-name').get('href')
 
             print(app_link)
             browser.get(app_link)
-            time.sleep(10)
+            time.sleep(6)
             html = browser.page_source
 
             soup_link = BS(html, 'lxml')
-            count_revenue = soup_link.find('div', class_ = 'head-wrap').find('span', class_ = 'label').text
-            revenue_block = soup_link.find('horizontal-stats', class_ = 'ng-star-inserted')
-            if revenue_block.text.count('United States') != 0:
 
-                # print(revenue_block.text.find('United States'))
-                countries = revenue_block.find_all('div', class_ = 'stats-label')
-                ctr_percents = revenue_block.find_all('div', class_ = 'percent')
-                k = 0
-                for country in countries:
-                    c = country.text.strip()
-                    if c == 'United States':
-                        revenue_index = k
-                        USA = c
-                        revenue_percent = ctr_percents[revenue_index].text
-                        # print(USA, revenue_percent)
-                    k+=1
-            else:
+            """
+            Загоним следующую часть кода под try т.к попадаются страницы, на которых информация о revenue или downloads(или и том, и о 
+            другом) за последние 30 дней отсутсвует
+            """
+            try:
+                count_revenue = soup_link.find('div', class_ = 'head-wrap').find('span', class_ = 'label').text
+                revenue_block = soup_link.find('horizontal-stats', class_ = 'ng-star-inserted')
+                count_downloads = soup_link.find_all('span', class_='label')[len(count_downloads)-1].text
+                download_block = soup_link.find('horizontal-stats', class_='ng-star-inserted').find_next('horizontal-stats', class_='ng-star-inserted')
+                if revenue_block.text.count('United States') != 0:
+
+                    # print(revenue_block.text.find('United States'))
+                    countries = revenue_block.find_all('div', class_ = 'stats-label')
+                    ctr_percents = revenue_block.find_all('div', class_ = 'percent')
+                    k = 0
+                    for country in countries:
+                        c = country.text.strip()
+                        if c == 'United States':
+                            revenue_index = k
+                            USA = c
+                            revenue_percent = ctr_percents[revenue_index].text
+                            # print(USA, revenue_percent)
+                        k+=1
+                else:
+                    revenue_percent = '-'
+            except:
+                count_revenue = '-'
                 revenue_percent = '-'
-
-            count_downloads = soup_link.find('div', class_ = 'head-wrap').find_next('div', class_ = 'head-wrap').find('span', class_ = 'label').text
-            download_block = soup_link.find('horizontal-stats', class_='ng-star-inserted').find_next('horizontal-stats', class_='ng-star-inserted')
+            """
+            Если информации о revenue нет, то ставим "-" в соответствующей переменных и проверям на наличие информации 
+            2-ой блок  
+            """
+                try:
+                    count_downloads = soup_link.find('span', class_ = 'label').text
+                    download_block = soup_link.find('horizontal-stats', class_='ng-star-inserted')
+                except:
+                    count_downloads = '-'
+                    download_block = ''
 
             if download_block.text.count('United States') != 0:
 
@@ -115,7 +143,12 @@ class GameParse():
                 dwn_percent = '-'
 
             print(app_name, count_revenue , revenue_percent, count_downloads, dwn_percent)
-            break
+            with open('GameParse.csv', 'a', encoding='utf-8') as file:
+                writer = csv.writer(file)
+                writer.writerow(
+                    (app_name, count_revenue , revenue_percent, count_downloads, dwn_percent)
+                )
+
 
             i+=1
             if i == 1001:
@@ -123,9 +156,8 @@ class GameParse():
 
 
 
-        time.sleep(10)
+        # time.sleep(10)
 
-20022858
 
 
 url = 'https://appmagic.rocks/top-charts/apps'
