@@ -2,6 +2,6 @@
 chromedriver.exe
 LearnParsingForJob.py
 auth_data.py
-/GameParser
 /SPBpoliklinik
-/YandexParse
+/GameParser/top_apps.html
+
