@@ -1,36 +1,1001 @@
-App name,Revenue,US percent of revenue,Downloads,US percent of downloads
-"Amazon India Shop, Pay, miniTV",-,-, Downloads:  > 10 000 000 ,20%
-Garena Free Fire: 5th Anniv., Revenue:  > $20 000 000 ,31%, Downloads:  > 20 000 000 ,-
-Shopee: 8.8 Liquidação,-,-, Downloads:  > 10 000 000 ,-
-Candy Crush Saga, Revenue:  > $100 000 000 ,65%, Downloads:  > 10 000 000 ,-
-快手, Revenue:  > $10 000 000 ,-, Downloads:  > 10 000 000 ,-
-Save the Doge,-,-, Downloads:  > 5 000 000 ,-
-Twitter, Revenue:  > $500 000 ,62%, Downloads:  > 10 000 000 ,12%
-"YouTube: Watch, Listen, Stream", Revenue:  > $50 000 000 ,43%, Downloads:  > 10 000 000 ,20%
-Roblox, Revenue:  > $50 000 000 ,54%, Downloads:  > 10 000 000 ,18%
-Netflix, Revenue:  > $20 000 000 ,43%, Downloads:  > 10 000 000 ,16%
-SHEIN-Fashion Shopping Online,-,-, Downloads:  > 10 000 000 ,16%
-ZOOM Cloud Meetings, Revenue:  > $200 000 ,-, Downloads:  > 10 000 000 ,14%
-Pinterest,-,-, Downloads:  > 10 000 000 ,13%
-Easy Booster,-,-, Downloads:  > 10 000 000 ,-
-Truecaller: Caller ID & Block, Revenue:  > $1 000 000 ,13%, Downloads:  > 10 000 000 ,-
-Ludo King™, Revenue:  > $100 000 ,-, Downloads:  > 10 000 000 ,-
-"Google Pay: Save, Pay, Manage",-,-, Downloads:  > 10 000 000 ,-
-Meesho: Online Shopping App,-,-, Downloads:  > 10 000 000 ,-
-Race Master 3D - Car Racing, Revenue:  > $200 000 ,54%, Downloads:  > 10 000 000 ,-
-Snow Race!!,-,-, Downloads:  > 10 000 000 ,-
-Google Maps,-,-, Downloads:  > 10 000 000 ,20%
-Bridge Race, Revenue:  > $200 000 ,49%, Downloads:  > 10 000 000 ,-
-Picsart Photo & Video Editor, Revenue:  > $5 000 000 ,51%, Downloads:  > 10 000 000 ,-
-Disney+, Revenue:  > $50 000 000 ,41%, Downloads:  > 10 000 000 ,18%
-"PhonePe UPI, Payment, Recharge",-,-, Downloads:  > 10 000 000 ,-
-Duolingo - Language Lessons, Revenue:  > $20 000 000 ,51%, Downloads:  > 10 000 000 ,11%
-Flipkart Online Shopping App,-,-, Downloads:  > 10 000 000 ,-
-Shopsy Shopping App - Flipkart,-,-, Downloads:  > 10 000 000 ,-
-Phone Cleaner,-,-, Downloads:  > 10 000 000 ,-
-Twee -Save Twitter Video&GIF,-,-, Downloads:  > 10 000 000 ,-
-BeReal. Your friends for real.,-,-, Downloads:  > 10 000 000 ,58%
-Shoot Bubble - Pop Bubbles, Revenue:  > $10 000 ,23%, Downloads:  > 10 000 000 ,-
-QR & Barcode Scanner, Revenue:  < $5 000 ,-, Downloads:  > 10 000 000 ,-
-Amazon Prime Video, Revenue:  > $5 000 000 ,45%, Downloads:  > 10 000 000 ,21%
-StarMaker: Sing and Play, Revenue:  > $2 000 000 ,15%, Downloads:  > 10 000 000 ,-
+App name,Revenue,US percent of revenue,Downloads,US percent of downloads
+TikTok, Revenue:  > $200 000 000 ,17%, Downloads:  > 50 000 000 ,-
+Instagram, Revenue:  > $500 000 ,60%, Downloads:  > 50 000 000 ,-
+Facebook, Revenue:  > $5 000 000 ,54%, Downloads:  > 50 000 000 ,-
+WhatsApp Messenger, Revenue:  < $5 000 ,-, Downloads:  > 20 000 000 ,-
+Stumble Guys, Revenue:  > $10 000 000 ,29%, Downloads:  > 20 000 000 ,10%
+Telegram, Revenue:  > $500 000 ,34%, Downloads:  > 20 000 000 ,-
+Snapchat, Revenue:  > $5 000 000 ,58%, Downloads:  > 20 000 000 ,10%
+Messenger, Revenue:  > $200 000 ,72%, Downloads:  > 20 000 000 ,11%
+WhatsApp Business, Revenue:  < $5 000 ,-, Downloads:  > 20 000 000 ,-
+CapCut - Video Editor, Revenue:  < $5 000 ,19%, Downloads:  > 20 000 000 ,-
+Subway Surfers, Revenue:  > $1 000 000 ,50%, Downloads:  > 20 000 000 ,-
+Spotify: Music and Podcasts, Revenue:  > $2 000 000 ,63%, Downloads:  > 20 000 000 ,10%
+"Amazon India Shop, Pay, miniTV",-,-, Downloads:  > 10 000 000 ,19%
+Garena Free Fire: 5th Anniv., Revenue:  > $20 000 000 ,31%, Downloads:  > 20 000 000 ,-
+Shopee: 8.8 Liquidação,-,-, Downloads:  > 10 000 000 ,-
+Candy Crush Saga, Revenue:  > $100 000 000 ,66%, Downloads:  > 10 000 000 ,-
+快手, Revenue:  > $10 000 000 ,-, Downloads:  > 10 000 000 ,-
+Save the Doge,-,-, Downloads:  > 5 000 000 ,-
+Twitter, Revenue:  > $500 000 ,63%, Downloads:  > 10 000 000 ,12%
+"YouTube: Watch, Listen, Stream", Revenue:  > $50 000 000 ,43%, Downloads:  > 10 000 000 ,19%
+Roblox, Revenue:  > $50 000 000 ,53%, Downloads:  > 10 000 000 ,18%
+Netflix, Revenue:  > $20 000 000 ,43%, Downloads:  > 10 000 000 ,16%
+SHEIN-Fashion Shopping Online,-,-, Downloads:  > 10 000 000 ,16%
+ZOOM Cloud Meetings, Revenue:  > $200 000 ,-, Downloads:  > 10 000 000 ,14%
+Pinterest,-,-, Downloads:  > 10 000 000 ,13%
+Easy Booster,-,-, Downloads:  > 10 000 000 ,-
+Truecaller: Caller ID & Block, Revenue:  > $1 000 000 ,13%, Downloads:  > 10 000 000 ,-
+Ludo King™, Revenue:  > $100 000 ,-, Downloads:  > 10 000 000 ,-
+"Google Pay: Save, Pay, Manage",-,-, Downloads:  > 10 000 000 ,-
+Meesho: Online Shopping App,-,-, Downloads:  > 10 000 000 ,-
+Race Master 3D - Car Racing, Revenue:  > $200 000 ,54%, Downloads:  > 10 000 000 ,-
+Snow Race!!,-,-, Downloads:  > 10 000 000 ,-
+Google Maps,-,-, Downloads:  > 10 000 000 ,20%
+Bridge Race, Revenue:  > $200 000 ,49%, Downloads:  > 10 000 000 ,-
+Picsart Photo & Video Editor, Revenue:  > $5 000 000 ,50%, Downloads:  > 10 000 000 ,-
+Disney+, Revenue:  > $50 000 000 ,41%, Downloads:  > 10 000 000 ,18%
+"PhonePe UPI, Payment, Recharge",-,-, Downloads:  > 10 000 000 ,-
+Duolingo - Language Lessons, Revenue:  > $20 000 000 ,51%, Downloads:  > 10 000 000 ,11%
+Flipkart Online Shopping App,-,-, Downloads:  > 10 000 000 ,-
+Shopsy Shopping App - Flipkart,-,-, Downloads:  > 10 000 000 ,-
+Phone Cleaner,-,-, Downloads:  > 10 000 000 ,-
+Twee -Save Twitter Video&GIF,-,-, Downloads:  > 10 000 000 ,-
+BeReal. Your friends for real.,-,-, Downloads:  > 10 000 000 ,58%
+Shoot Bubble - Pop Bubbles, Revenue:  > $10 000 ,23%, Downloads:  > 10 000 000 ,-
+QR & Barcode Scanner, Revenue:  < $5 000 ,-, Downloads:  > 10 000 000 ,-
+Amazon Prime Video, Revenue:  > $5 000 000 ,45%, Downloads:  > 10 000 000 ,21%
+StarMaker: Sing and Play, Revenue:  > $2 000 000 ,15%, Downloads:  > 10 000 000 ,-
+Google,-,-, Downloads:  > 10 000 000 ,28%
+Microsoft Teams,-,-, Downloads:  > 5 000 000 ,20%
+Bravo Cleaner: Speed Booster, Revenue:  > $20 000 ,46%, Downloads:  > 10 000 000 ,11%
+My Talking Tom 2, Revenue:  > $200 000 ,25%, Downloads:  > 10 000 000 ,-
+8 Ball Pool, Revenue:  > $5 000 000 ,49%, Downloads:  > 10 000 000 ,12%
+Private Proxy：Network Booster,-,-, Downloads:  > 10 000 000 ,-
+"SHAREit: Transfer, Share Files", Revenue:  > $20 000 ,-, Downloads:  > 10 000 000 ,-
+"Canva: Design, Photo & Video", Revenue:  > $10 000 000 ,48%, Downloads:  > 10 000 000 ,-
+Video Editor & Maker - InShot, Revenue:  > $1 000 000 ,35%, Downloads:  > 10 000 000 ,-
+Antistress - relaxation toys, Revenue:  > $5 000 ,17%, Downloads:  > 5 000 000 ,-
+YouTube Kids,-,-, Downloads:  > 10 000 000 ,-
+Paytm: Secure UPI Payments,-,-, Downloads:  > 5 000 000 ,-
+Temple Run, Revenue:  > $5 000 ,16%, Downloads:  > 5 000 000 ,-
+Google Chrome,-,-, Downloads:  > 5 000 000 ,20%
+MX Player, Revenue:  > $20 000 ,-, Downloads:  > 10 000 000 ,-
+Private Video Downloader, Revenue:  > $10 000 ,-, Downloads:  > 10 000 000 ,-
+KeepBooster: Cleaner&Antivirus, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,-
+All Translator Pro,-,-, Downloads:  > 5 000 000 ,-
+"Discord: Talk, Chat & Hang Out", Revenue:  > $5 000 000 ,63%, Downloads:  > 5 000 000 ,22%
+FoxFast - Unlimited & Safe,-,-, Downloads:  > 5 000 000 ,-
+Google Translate,-,-, Downloads:  > 5 000 000 ,12%
+Uber - Request a ride,-,-, Downloads:  > 10 000 000 ,19%
+mAst: Music Status Video Maker, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,-
+Snake Lite, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,-
+MyJio: For Everything Jio,-,-, Downloads:  > 5 000 000 ,-
+Gmail - Email by Google, Revenue:  > $2 000 000 ,55%, Downloads:  > 5 000 000 ,27%
+SafeLight - Private & Fast,-,-, Downloads:  > 5 000 000 ,-
+WeChat, Revenue:  > $5 000 000 ,-, Downloads:  > 5 000 000 ,-
+Fill The Fridge, Revenue:  > $200 000 ,66%, Downloads:  > 10 000 000 ,16%
+Noizz: video editor with music, Revenue:  < $5 000 ,10%, Downloads:  > 5 000 000 ,-
+Fishdom, Revenue:  > $20 000 000 ,46%, Downloads:  > 5 000 000 ,21%
+拼多多 - 多多买菜，百亿补贴, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,-
+Remini - AI Photo Enhancer, Revenue:  > $1 000 000 ,32%, Downloads:  > 5 000 000 ,-
+FanCode : Watch IND vs WI Live, Revenue:  > $20 000 ,-, Downloads:  > 5 000 000 ,-
+Alibaba.com - B2B marketplace,-,-, Downloads:  > 5 000 000 ,10%
+QRScanner - Super QR Code Tool,-,-, Downloads:  > 2 000 000 ,-
+PUBG MOBILE, Revenue:  > $100 000 000 ,-, Downloads:  > 5 000 000 ,-
+Where is my Train,-,-, Downloads:  > 5 000 000 ,-
+Mercado Libre: Compras Online,-,-, Downloads:  > 5 000 000 ,-
+Brave Private Web Browser, Revenue:  > $200 000 ,60%, Downloads:  > 5 000 000 ,-
+Resso Music - Songs & Lyrics, Revenue:  > $200 000 ,-, Downloads:  > 5 000 000 ,-
+Piano Fire: Edm Music & Piano, Revenue:  > $5 000 ,21%, Downloads:  > 5 000 000 ,-
+GT Mega Ramp Stunt Bike Games, Revenue:  < $5 000 ,19%, Downloads:  > 5 000 000 ,-
+Booking.com: Hotels and more,-,-, Downloads:  > 5 000 000 ,22%
+Among Us, Revenue:  > $200 000 ,68%, Downloads:  > 5 000 000 ,16%
+GT Car Stunt Master 3D, Revenue:  < $5 000 ,25%, Downloads:  > 2 000 000 ,11%
+My Talking Tom Friends, Revenue:  > $100 000 ,25%, Downloads:  > 5 000 000 ,-
+Wynk Music -Songs & HelloTunes, Revenue:  > $10 000 ,-, Downloads:  > 5 000 000 ,-
+Dessert DIY,-,-, Downloads:  > 5 000 000 ,10%
+Parking Jam 3D, Revenue:  > $200 000 ,54%, Downloads:  > 5 000 000 ,30%
+Airtel Thanks – Recharge & UPI,-,-, Downloads:  > 5 000 000 ,-
+PLAYit-All in One Video Player, Revenue:  < $5 000 ,10%, Downloads:  > 5 000 000 ,-
+DOP 4: Draw One Part,-,-, Downloads:  > 5 000 000 ,-
+Crowd Evolution!, Revenue:  > $50 000 ,34%, Downloads:  > 5 000 000 ,22%
+VPN - Super Unlimited Proxy, Revenue:  > $500 000 ,49%, Downloads:  > 5 000 000 ,10%
+Toca Life World: Build stories, Revenue:  > $5 000 000 ,54%, Downloads:  > 5 000 000 ,15%
+Carrom Pool: Disc Game, Revenue:  > $100 000 ,-, Downloads:  > 5 000 000 ,-
+Kick The Buddy: Second Kick, Revenue:  > $20 000 ,44%, Downloads:  > 2 000 000 ,10%
+Craft School: Monster Class, Revenue:  < $5 000 ,15%, Downloads:  > 10 000 000 ,-
+RavoVPN-Secure&Fast Proxy,-,-, Downloads:  > 5 000 000 ,-
+Magic Tiles 3, Revenue:  > $500 000 ,46%, Downloads:  > 5 000 000 ,13%
+Google Photos, Revenue:  > $5 000 000 ,52%, Downloads:  > 5 000 000 ,16%
+Translate All- Easy Translator,-,-, Downloads:  > 5 000 000 ,-
+Adobe Acrobat Reader: Edit PDF, Revenue:  > $5 000 000 ,55%, Downloads:  > 5 000 000 ,13%
+Talking Tom Gold Run, Revenue:  > $200 000 ,15%, Downloads:  > 5 000 000 ,-
+Turbo VPN - Secure VPN Proxy, Revenue:  > $200 000 ,17%, Downloads:  > 5 000 000 ,-
+AliExpress,-,-, Downloads:  > 5 000 000 ,-
+Terabox: Cloud Storage Space, Revenue:  > $50 000 ,12%, Downloads:  > 5 000 000 ,-
+Getcontact, Revenue:  > $500 000 ,-, Downloads:  > 5 000 000 ,-
+Video Downloader for Instagram, Revenue:  > $5 000 ,12%, Downloads:  > 5 000 000 ,-
+Dream Wedding,-,-, Downloads:  > 5 000 000 ,-
+"PayPal - Send, Shop, Manage",-,-, Downloads:  > 5 000 000 ,29%
+Deep Cleaner-Phone Faster,-,-, Downloads:  > 2 000 000 ,15%
+Bravo Booster: One-tap Cleaner, Revenue:  > $20 000 ,38%, Downloads:  > 5 000 000 ,-
+Snake.io: Fun Snake .io Games, Revenue:  > $20 000 ,10%, Downloads:  > 5 000 000 ,-
+Racing Master - Car Race 3D, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+School Party Craft,-,-, Downloads:  > 5 000 000 ,-
+Chilli - Super Unlimited Proxy,-,-, Downloads:  > 2 000 000 ,-
+Pull the Pin, Revenue:  > $200 000 ,70%, Downloads:  > 5 000 000 ,17%
+Hide 'N Seek!, Revenue:  < $5 000 ,23%, Downloads:  > 5 000 000 ,-
+Dig Deep,-,-, Downloads:  > 5 000 000 ,15%
+Tall Man Run, Revenue:  > $200 000 ,53%, Downloads:  > 5 000 000 ,16%
+Sky - Secure Fast Proxy,-,-, Downloads:  > 5 000 000 ,-
+Car Cops,-,-, Downloads:  > 2 000 000 ,11%
+Going Balls, Revenue:  > $20 000 ,-, Downloads:  > 5 000 000 ,11%
+imo-International Calls & Chat, Revenue:  > $1 000 000 ,-, Downloads:  > 5 000 000 ,-
+Traffic Rider, Revenue:  > $200 000 ,54%, Downloads:  > 5 000 000 ,-
+HBO Max: Stream TV & Movies, Revenue:  > $50 000 000 ,88%, Downloads:  > 5 000 000 ,28%
+Bigo Live - Live Streaming App, Revenue:  > $10 000 000 ,41%, Downloads:  > 5 000 000 ,10%
+My City : Mansion, Revenue:  > $5 000 ,22%, Downloads:  > 2 000 000 ,-
+Battle Shooting Game FPS, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,-
+2 Player games : the Challenge, Revenue:  > $200 000 ,60%, Downloads:  > 5 000 000 ,-
+Google Meet,-,-, Downloads:  > 5 000 000 ,10%
+QR & Barcode Reader, Revenue:  > $50 000 ,-, Downloads:  > 5 000 000 ,-
+Makeup Kit - Color Mixing,-,-, Downloads:  > 2 000 000 ,46%
+Kiloblocks Lite, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,-
+FIFA Soccer, Revenue:  > $5 000 000 ,23%, Downloads:  > 5 000 000 ,-
+Fizzo Novel - Reading Offline,-,-, Downloads:  > 2 000 000 ,-
+speed booster Proxy,-,-, Downloads:  > 5 000 000 ,-
+ibis Paint X, Revenue:  > $200 000 ,58%, Downloads:  > 5 000 000 ,-
+Emoji Puzzle!, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,-
+Microsoft Outlook, Revenue:  > $200 000 ,62%, Downloads:  > 5 000 000 ,24%
+My Talking Angela 2, Revenue:  > $200 000 ,31%, Downloads:  > 5 000 000 ,-
+Lightroom Photo & Video Editor, Revenue:  > $5 000 000 ,47%, Downloads:  > 5 000 000 ,10%
+"ZEE5: Movies, TV Shows, Series", Revenue:  > $200 000 ,32%, Downloads:  > 5 000 000 ,-
+Snapseed, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,-
+ShareChat - Made in India, Revenue:  > $200 000 ,-, Downloads:  > 5 000 000 ,-
+Count Masters: Stickman Games, Revenue:  > $50 000 ,10%, Downloads:  > 5 000 000 ,22%
+Google Sheets,-,-, Downloads:  > 5 000 000 ,14%
+Moj, Revenue:  > $5 000 ,17%, Downloads:  > 5 000 000 ,-
+Bravo Security: space cleaner, Revenue:  > $5 000 ,38%, Downloads:  > 2 000 000 ,11%
+VN Video Editor Maker VlogNow, Revenue:  > $50 000 ,21%, Downloads:  > 5 000 000 ,-
+"Smart Translator - OCR, photo",-,-, Downloads:  > 2 000 000 ,-
+ZArchiver,-,-, Downloads:  > 5 000 000 ,-
+Hair Tattoo: Barber Shop Game, Revenue:  < $5 000 ,-, Downloads:  > 10 000 000 ,-
+Craftsman: Building Craft,-,-, Downloads:  > 5 000 000 ,-
+Pooking - Billiards City, Revenue:  < $5 000 ,10%, Downloads:  > 5 000 000 ,-
+Waze Navigation & Live Traffic,-,-, Downloads:  > 5 000 000 ,19%
+Extreme Car Driving Simulator, Revenue:  > $100 000 ,52%, Downloads:  > 5 000 000 ,-
+inDriver — Offer your fare,-,-, Downloads:  > 5 000 000 ,-
+Woodoku,-,-, Downloads:  > 5 000 000 ,23%
+EPIK - Photo Editor,-,-, Downloads:  > 5 000 000 ,-
+Tinder - Dating New People, Revenue:  > $50 000 000 ,40%, Downloads:  > 5 000 000 ,16%
+1945 Air Force: Airplane games, Revenue:  > $1 000 000 ,32%, Downloads:  > 5 000 000 ,-
+Temple Run 2, Revenue:  > $20 000 ,54%, Downloads:  > 5 000 000 ,-
+Public - Indian Local Videos,-,-, Downloads:  > 5 000 000 ,-
+Zomato: Food Delivery & Dining,-,-, Downloads:  > 5 000 000 ,-
+B612 Camera&Photo/Video Editor, Revenue:  > $100 000 ,-, Downloads:  > 5 000 000 ,-
+Save the Bro: Funny Choice, Revenue:  < $5 000 ,15%, Downloads:  > 2 000 000 ,-
+Nike,-,-, Downloads:  > 5 000 000 ,34%
+LinkedIn: Network & Job Finder, Revenue:  > $20 000 000 ,51%, Downloads:  > 5 000 000 ,17%
+Microsoft Office: Edit & Share, Revenue:  > $1 000 000 ,31%, Downloads:  > 2 000 000 ,14%
+JioSaavn - Music & Podcasts, Revenue:  > $100 000 ,51%, Downloads:  > 5 000 000 ,-
+Hill Climb Racing, Revenue:  > $200 000 ,46%, Downloads:  > 5 000 000 ,-
+Sticker.ly - Sticker Maker,-,-, Downloads:  > 5 000 000 ,-
+Craft Robo Clever Rainbow,-,-, Downloads:  > 1 000 000 ,-
+Save Video Status - WA Status, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,-
+Josh: Short Videos App,-,-, Downloads:  > 2 000 000 ,-
+Reddit, Revenue:  > $500 000 ,74%, Downloads:  > 5 000 000 ,36%
+Lazada - Online Shopping APP,-,-, Downloads:  > 5 000 000 ,-
+KineMaster - Video Editor, Revenue:  > $500 000 ,15%, Downloads:  > 5 000 000 ,-
+Google Drive, Revenue:  > $2 000 000 ,43%, Downloads:  > 5 000 000 ,19%
+Auxílio Brasil GovBR,-,-, Downloads:  > 2 000 000 ,-
+Township, Revenue:  > $20 000 000 ,57%, Downloads:  > 5 000 000 ,-
+YouTube Music, Revenue:  > $10 000 000 ,52%, Downloads:  > 5 000 000 ,14%
+Aquarium Land, Revenue:  > $50 000 ,50%, Downloads:  > 5 000 000 ,15%
+Ball Run 2048,-,-, Downloads:  > 2 000 000 ,11%
+Win 98 Simulator,-,-, Downloads:  > 2 000 000 ,-
+Merge Master: Dinosaur Monster, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,-
+Alipay - Simplify Your Life,-,-, Downloads:  > 5 000 000 ,-
+Vidmix - Music Video Editor, Revenue:  < $5 000 ,57%, Downloads:  > 1 000 000 ,-
+Ring - Fast and Easy Payments,-,-, Downloads:  > 5 000 000 ,-
+SnackVideo, Revenue:  > $50 000 ,-, Downloads:  > 5 000 000 ,-
+File Recovery - Restore Files,-,-, Downloads:  > 5 000 000 ,-
+Pull'em All!, Revenue:  > $5 000 ,51%, Downloads:  > 2 000 000 ,16%
+Hotstar, Revenue:  > $500 000 ,-, Downloads:  > 5 000 000 ,-
+Bored Ape Creator - NFT Art,-,-, Downloads:  > 1 000 000 ,-
+Phone Case DIY,-,-, Downloads:  > 5 000 000 ,-
+Clean Master - Phone Booster,-,-, Downloads:  > 2 000 000 ,-
+UNO!™, Revenue:  > $2 000 000 ,52%, Downloads:  > 5 000 000 ,17%
+CallApp: Caller ID & Recording, Revenue:  > $100 000 ,39%, Downloads:  > 5 000 000 ,-
+Microsoft Word, Revenue:  > $5 000 000 ,37%, Downloads:  > 2 000 000 ,10%
+Talking Tom Hero Dash, Revenue:  > $100 000 ,23%, Downloads:  > 5 000 000 ,-
+adidas CONFIRMED,-,-, Downloads:  > 1 000 000 ,37%
+My Talking Tom, Revenue:  > $100 000 ,-, Downloads:  > 5 000 000 ,-
+Mivo: music video maker, Revenue:  < $5 000 ,18%, Downloads:  > 5 000 000 ,-
+Soccer Super Star, Revenue:  > $200 000 ,52%, Downloads:  > 5 000 000 ,-
+Shazam: Music Discovery, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,15%
+Subway Princess Runner, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,-
+Super Booster-Junk Clean Fast,-,-, Downloads:  > 1 000 000 ,-
+Facemoji Emoji Keyboard&Fonts, Revenue:  > $200 000 ,87%, Downloads:  > 5 000 000 ,-
+Tiles Hop: EDM Rush!, Revenue:  > $200 000 ,60%, Downloads:  > 5 000 000 ,-
+Words of Wonders: Crossword, Revenue:  > $1 000 000 ,63%, Downloads:  > 5 000 000 ,-
+SPlayer - All Video Player,-,-, Downloads:  > 5 000 000 ,-
+Microsoft Authenticator,-,-, Downloads:  > 2 000 000 ,30%
+Video Editor APP - VivaCut, Revenue:  > $200 000 ,56%, Downloads:  > 5 000 000 ,-
+Daily VPN - Super Proxy App,-,-, Downloads:  > 2 000 000 ,-
+Video Downloader for social,-,-, Downloads:  > 5 000 000 ,-
+Airbnb,-,-, Downloads:  > 5 000 000 ,22%
+Twerk Race 3D — Running Game, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,10%
+ShareKaro - File Sharing,-,-, Downloads:  > 5 000 000 ,-
+Mivita - Face Swap Video Maker,-,-, Downloads:  > 2 000 000 ,-
+VITA - Video Editor & Maker,-,-, Downloads:  > 5 000 000 ,-
+Twitch: Live Game Streaming, Revenue:  > $10 000 000 ,61%, Downloads:  > 5 000 000 ,24%
+Fill Up Fridge：Organizing Game, Revenue:  < $5 000 ,27%, Downloads:  > 5 000 000 ,-
+Crazy Car Stunt: Car Games, Revenue:  > $10 000 ,25%, Downloads:  > 5 000 000 ,-
+STAR: Super Tricky Amazing Run, Revenue:  > $10 000 ,-, Downloads:  > 2 000 000 ,-
+Tiki - Short Video App, Revenue:  > $200 000 ,-, Downloads:  > 2 000 000 ,-
+Geometry Dash Lite, Revenue:  > $100 000 ,34%, Downloads:  > 5 000 000 ,11%
+Like a Pizza, Revenue:  > $20 000 ,-, Downloads:  > 5 000 000 ,-
+Truck Simulator - Truck Games, Revenue:  > $5 000 ,21%, Downloads:  > 5 000 000 ,-
+Google Earth,-,-, Downloads:  > 5 000 000 ,16%
+ViX: Cine y TV en Español, Revenue:  > $100 000 ,67%, Downloads:  > 5 000 000 ,12%
+Google Docs,-,-, Downloads:  > 2 000 000 ,18%
+Pou, Revenue:  > $50 000 ,24%, Downloads:  > 5 000 000 ,-
+Mobile Legends: Bang Bang, Revenue:  > $10 000 000 ,12%, Downloads:  > 5 000 000 ,-
+Phone Cleaner - Cache Cleaner, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+QQ, Revenue:  > $5 000 000 ,-, Downloads:  > 2 000 000 ,-
+Hyper Front Lite, Revenue:  > $50 000 ,-, Downloads:  > 5 000 000 ,-
+BILIBILI COMICS - Manga Reader, Revenue:  > $50 000 ,42%, Downloads:  > 2 000 000 ,-
+Red Ball 4, Revenue:  > $10 000 ,13%, Downloads:  > 2 000 000 ,-
+爱奇艺, Revenue:  > $20 000 000 ,-, Downloads:  > 2 000 000 ,-
+MagicTranslator:100+ languages,-,-, Downloads:  > 2 000 000 ,-
+Hoard Master, Revenue:  > $100 000 ,75%, Downloads:  > 5 000 000 ,21%
+Smart Cleaner - Phone Booster,-,-, Downloads:  > 2 000 000 ,-
+My Talking Angela, Revenue:  > $200 000 ,31%, Downloads:  > 5 000 000 ,-
+Max Booster - Quick Cleanup,-,-, Downloads:  > 2 000 000 ,-
+小红书 – 标记我的生活, Revenue:  > $1 000 000 ,-, Downloads:  > 2 000 000 ,-
+Hungry Shark Evolution, Revenue:  > $500 000 ,68%, Downloads:  > 2 000 000 ,-
+iFace: AI Cartoon Photo Editor, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Radio Garden, Revenue:  > $5 000 ,-, Downloads:  > 1 000 000 ,22%
+Sweatcoin, Revenue:  > $500 000 ,45%, Downloads:  > 2 000 000 ,12%
+FaceApp: Perfect Face Editor, Revenue:  > $5 000 000 ,33%, Downloads:  > 5 000 000 ,-
+Samsung Smart Switch Mobile,-,-, Downloads:  > 2 000 000 ,15%
+Flightradar24 | Flight Tracker, Revenue:  > $1 000 000 ,20%, Downloads:  > 2 000 000 ,15%
+UC浏览器-头条抢先看, Revenue:  > $2 000 000 ,-, Downloads:  > 2 000 000 ,-
+剪映 - 轻而易剪, Revenue:  > $1 000 000 ,-, Downloads:  > 2 000 000 ,-
+India's largest Community app - Kutumb,-,-, Downloads:  > 5 000 000 ,-
+Decor Life - Home Design Game, Revenue:  > $50 000 ,72%, Downloads:  > 2 000 000 ,11%
+Piano Kids - Music & Songs, Revenue:  > $5 000 ,16%, Downloads:  > 5 000 000 ,-
+"高德地图-高德打车,导航公交地铁出行", Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Bowmasters, Revenue:  > $500 000 ,69%, Downloads:  > 2 000 000 ,13%
+Indeed Job Search,-,-, Downloads:  > 2 000 000 ,37%
+"Bajaj Finserv- UPI, Pay, Loans",-,-, Downloads:  > 2 000 000 ,-
+Brainly – Get Homework Answers, Revenue:  > $500 000 ,96%, Downloads:  > 2 000 000 ,-
+Find the Alien,-,-, Downloads:  > 2 000 000 ,-
+Hunter Assassin, Revenue:  > $10 000 ,28%, Downloads:  > 2 000 000 ,-
+WIFI Helper,-,-, Downloads:  > 2 000 000 ,-
+Pluto TV - Live TV and Movies,-,-, Downloads:  > 5 000 000 ,23%
+Time Warp Scan - Face Scanner, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Screen Recorder - XRecorder, Revenue:  > $10 000 ,15%, Downloads:  > 2 000 000 ,-
+Candy Manor - Home Design,-,-, Downloads:  > 2 000 000 ,-
+Granny, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Minion Rush: Running Game, Revenue:  > $500 000 ,40%, Downloads:  > 5 000 000 ,18%
+2 3 4 Player Mini Games,-,-, Downloads:  > 5 000 000 ,-
+Join Clash 3D, Revenue:  > $10 000 ,13%, Downloads:  > 5 000 000 ,-
+King James Bible - Verse+Audio, Revenue:  < $5 000 ,19%, Downloads:  > 2 000 000 ,14%
+Genshin Impact, Revenue:  > $100 000 000 ,11%, Downloads:  > 2 000 000 ,11%
+Collage Maker | Photo Editor, Revenue:  > $20 000 ,19%, Downloads:  > 2 000 000 ,-
+Bob's World - Super Run Game, Revenue:  < $5 000 ,15%, Downloads:  > 2 000 000 ,-
+HideU: Calculator Lock,-,-, Downloads:  > 2 000 000 ,-
+"Share Karo: Transfer, Share it",-,-, Downloads:  > 2 000 000 ,-
+Ultra Junk Cleaner Booster,-,-, Downloads:  > 2 000 000 ,-
+DOP 2: Delete One Part, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Plants vs. Zombies™, Revenue:  > $50 000 ,15%, Downloads:  > 2 000 000 ,-
+Kick the Buddy, Revenue:  > $500 000 ,74%, Downloads:  > 2 000 000 ,14%
+国家云课堂,-,-, Downloads:  > 2 000 000 ,-
+Thief Puzzle: to pass a level, Revenue:  < $5 000 ,-, Downloads:  > 5 000 000 ,10%
+gov.br,-,-, Downloads:  > 2 000 000 ,-
+Lite Cleaner - Safe Cleaner,-,-, Downloads:  > 2 000 000 ,-
+"ZEPETO: 3D avatar, chat & meet", Revenue:  > $1 000 000 ,18%, Downloads:  > 2 000 000 ,-
+哔哩哔哩-弹幕番剧直播高清视频, Revenue:  > $10 000 000 ,-, Downloads:  > 2 000 000 ,-
+Talking Tom Cat, Revenue:  > $10 000 ,-, Downloads:  > 2 000 000 ,-
+My Mini Mart, Revenue:  > $500 000 ,59%, Downloads:  > 5 000 000 ,-
+Weibo, Revenue:  > $2 000 000 ,-, Downloads:  > 2 000 000 ,-
+"WPS Office-PDF,Word,Excel,PPT", Revenue:  > $200 000 ,-, Downloads:  > 2 000 000 ,-
+Stickman Party 2 3 4 MiniGames, Revenue:  > $10 000 ,-, Downloads:  > 5 000 000 ,-
+Bubble Shooter, Revenue:  > $500 000 ,66%, Downloads:  > 2 000 000 ,-
+Real Construction Simulator, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+aquapark.io, Revenue:  > $200 000 ,57%, Downloads:  > 2 000 000 ,14%
+Real Piano,-,-, Downloads:  > 2 000 000 ,-
+Car Race 3D: Car Racing, Revenue:  < $5 000 ,17%, Downloads:  > 5 000 000 ,-
+Akinator, Revenue:  > $50 000 ,48%, Downloads:  > 2 000 000 ,14%
+LokiCraft,-,-, Downloads:  > 2 000 000 ,-
+Stack Ball - Crash Platforms, Revenue:  > $5 000 ,-, Downloads:  > 2 000 000 ,12%
+ShareMe: File sharing,-,-, Downloads:  > 2 000 000 ,-
+Brain Out: Can you pass it?, Revenue:  > $200 000 ,54%, Downloads:  > 2 000 000 ,-
+YouTube Studio,-,-, Downloads:  > 2 000 000 ,-
+Plants vs Zombies™ 2, Revenue:  > $1 000 000 ,39%, Downloads:  > 2 000 000 ,11%
+"Clean Master - Booster, Clean",-,-, Downloads:  > 2 000 000 ,-
+Candy Crush Soda Saga, Revenue:  > $20 000 000 ,64%, Downloads:  > 2 000 000 ,-
+Idle Lumber Empire, Revenue:  > $2 000 000 ,49%, Downloads:  > 2 000 000 ,-
+Tomb of the Mask, Revenue:  > $100 000 ,50%, Downloads:  > 2 000 000 ,-
+Flashscore, Revenue:  > $10 000 ,-, Downloads:  > 2 000 000 ,-
+Idle Egg Factory, Revenue:  > $50 000 ,52%, Downloads:  > 2 000 000 ,21%
+Music Player & MP3 Player, Revenue:  > $10 000 ,16%, Downloads:  > 2 000 000 ,-
+Koo: Know What's Happening!,-,-, Downloads:  > 2 000 000 ,-
+Happy Glass, Revenue:  > $50 000 ,33%, Downloads:  > 2 000 000 ,-
+Sandwich Runner,-,-, Downloads:  > 2 000 000 ,-
+Bazooka Boy, Revenue:  > $10 000 ,40%, Downloads:  > 2 000 000 ,-
+Easy Scanner,-,-, Downloads:  > 2 000 000 ,-
+XY VPN -Security Proxy VPN, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Call of Duty®: Mobile, Revenue:  > $20 000 000 ,54%, Downloads:  > 2 000 000 ,30%
+Premier League - Official App,-,-, Downloads:  > 2 000 000 ,11%
+Uber Eats: Food Delivery,-,-, Downloads:  > 2 000 000 ,36%
+Brain Test: Tricky Puzzles, Revenue:  > $500 000 ,50%, Downloads:  > 2 000 000 ,15%
+Mivi :Music & Beat Video Maker, Revenue:  < $5 000 ,18%, Downloads:  > 5 000 000 ,-
+Cashier 3D, Revenue:  < $5 000 ,26%, Downloads:  > 2 000 000 ,14%
+Baby Panda's Supermarket, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Solar Smash, Revenue:  > $5 000 ,29%, Downloads:  > 2 000 000 ,10%
+Easy Boost - Phone Cool Master,-,-, Downloads:  > 2 000 000 ,-
+Coffee Stack, Revenue:  > $100 000 ,85%, Downloads:  > 2 000 000 ,26%
+Smule: Karaoke Songs & Videos, Revenue:  > $2 000 000 ,49%, Downloads:  > 2 000 000 ,-
+Zili Short Video App for India,-,-, Downloads:  > 2 000 000 ,-
+Space shooter - Galaxy attack, Revenue:  > $1 000 000 ,50%, Downloads:  > 2 000 000 ,16%
+Homescapes, Revenue:  > $20 000 000 ,45%, Downloads:  > 2 000 000 ,11%
+Google Home,-,-, Downloads:  > 2 000 000 ,21%
+Blood Pressure App,-,-, Downloads:  > 2 000 000 ,-
+CamScanner - PDF Scanner App, Revenue:  > $1 000 000 ,37%, Downloads:  > 2 000 000 ,-
+腾讯视频-月升沧海暑期独播, Revenue:  > $50 000 000 ,-, Downloads:  > 2 000 000 ,-
+Beat.ly: music video maker, Revenue:  > $10 000 ,28%, Downloads:  > 2 000 000 ,-
+Photo Video Maker with Song,-,-, Downloads:  > 2 000 000 ,-
+Bilibili, Revenue:  > $100 000 ,-, Downloads:  > 2 000 000 ,-
+CAIXA Tem,-,-, Downloads:  > 2 000 000 ,-
+Sketchbook, Revenue:  > $20 000 ,-, Downloads:  > 2 000 000 ,10%
+"Nubank: conta, cartão e mais",-,-, Downloads:  > 2 000 000 ,-
+QR Code Scanner & Scanner App, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Lucky Step,-,-, Downloads:  > 5 000 000 ,-
+Tile Master 3D® - Match 3D, Revenue:  > $500 000 ,66%, Downloads:  > 2 000 000 ,-
+AJIO - House Of Brands,-,-, Downloads:  > 2 000 000 ,-
+Worms Zone .io - Hungry Snake, Revenue:  > $20 000 ,17%, Downloads:  > 2 000 000 ,-
+YONO SBI: Banking & Lifestyle,-,-, Downloads:  > 2 000 000 ,-
+Color Time - Paint by Number, Revenue:  > $5 000 ,48%, Downloads:  > 5 000 000 ,-
+Indian Bikes Driving 3D,-,-, Downloads:  > 2 000 000 ,-
+Airport Security, Revenue:  > $5 000 ,-, Downloads:  > 2 000 000 ,-
+Litmatch—Make new friends, Revenue:  > $500 000 ,-, Downloads:  > 2 000 000 ,-
+Opera Mini: Fast Web Browser,-,-, Downloads:  > 2 000 000 ,-
+Smart Booster - Phone Optimize,-,-, Downloads:  > 2 000 000 ,-
+WiFi Passwords: Instabridge, Revenue:  < $5 000 ,29%, Downloads:  > 2 000 000 ,-
+Fidget Toys 3D - Antistress, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Button Fever,-,-, Downloads:  > 1 000 000 ,19%
+芒果TV, Revenue:  > $10 000 000 ,-, Downloads:  > 2 000 000 ,-
+Clash of Clans, Revenue:  > $20 000 000 ,46%, Downloads:  > 2 000 000 ,12%
+Viber - Safe Chats And Calls, Revenue:  > $500 000 ,47%, Downloads:  > 2 000 000 ,-
+Screen Recorder -VidmaRecorder, Revenue:  > $10 000 ,28%, Downloads:  > 2 000 000 ,-
+Angry Birds 2, Revenue:  > $5 000 000 ,71%, Downloads:  > 2 000 000 ,23%
+Microsoft Excel: Spreadsheets, Revenue:  > $2 000 000 ,31%, Downloads:  > 2 000 000 ,-
+Moovit: Bus & Train Schedules, Revenue:  > $20 000 ,-, Downloads:  > 2 000 000 ,-
+Fetch Rewards,-,-, Downloads:  > 2 000 000 ,100%
+Car Parking Multiplayer, Revenue:  > $500 000 ,40%, Downloads:  > 2 000 000 ,-
+DANA Indonesia Digital Wallet,-,-, Downloads:  > 2 000 000 ,-
+Supreme Duelist Stickman, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Junkyard Keeper, Revenue:  > $200 000 ,65%, Downloads:  > 2 000 000 ,29%
+Sonic Dash - Endless Running, Revenue:  > $100 000 ,61%, Downloads:  > 2 000 000 ,11%
+Coin Master, Revenue:  > $50 000 000 ,48%, Downloads:  > 2 000 000 ,22%
+Zombie Tsunami, Revenue:  > $20 000 ,-, Downloads:  > 2 000 000 ,-
+"Fashion Show: Makeup, Dress Up", Revenue:  > $5 000 ,22%, Downloads:  > 2 000 000 ,-
+Psiphon Pro, Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,-
+RTO Vehicle Information, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Advance Car Parking: Car Games, Revenue:  < $5 000 ,27%, Downloads:  > 2 000 000 ,-
+Music Player &MP3- Lark Player,-,-, Downloads:  > 2 000 000 ,-
+Dr. Driving, Revenue:  > $10 000 ,-, Downloads:  > 2 000 000 ,-
+Video Downloader - Video Downloader App, Revenue:  < $5 000 ,11%, Downloads:  > 2 000 000 ,-
+Baby Panda's School Bus, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+国家反诈中心,-,-, Downloads:  > 2 000 000 ,-
+All Video Downloader,-,-, Downloads:  > 2 000 000 ,-
+SoundCloud: Discover New Music, Revenue:  > $5 000 000 ,68%, Downloads:  > 2 000 000 ,23%
+Money Rush, Revenue:  > $100 000 ,82%, Downloads:  > 2 000 000 ,19%
+Paint by Number Coloring Games, Revenue:  > $200 000 ,66%, Downloads:  > 2 000 000 ,-
+Photo Editor Pro - Polish, Revenue:  > $20 000 ,17%, Downloads:  > 2 000 000 ,-
+Evony: The King's Return, Revenue:  > $20 000 000 ,60%, Downloads:  > 2 000 000 ,29%
+ARK Cleaner - Phone Booster,-,-, Downloads:  > 1 000 000 ,-
+Video Downloader, Revenue:  > $10 000 ,20%, Downloads:  > 2 000 000 ,-
+Grab Superapp,-,-, Downloads:  > 2 000 000 ,-
+Home Workout - No Equipment, Revenue:  > $200 000 ,53%, Downloads:  > 2 000 000 ,-
+Merge Archers: Castle Defense, Revenue:  < $5 000 ,20%, Downloads:  > 2 000 000 ,10%
+Cash App,-,-, Downloads:  > 2 000 000 ,96%
+ZEDGE™ Wallpapers & Ringtones, Revenue:  > $200 000 ,68%, Downloads:  > 2 000 000 ,-
+Lords Mobile: Tower Defense, Revenue:  > $20 000 000 ,31%, Downloads:  > 2 000 000 ,10%
+Google Find My Device,-,-, Downloads:  > 2 000 000 ,-
+Pokémon GO, Revenue:  > $50 000 000 ,36%, Downloads:  > 2 000 000 ,23%
+Stick War: Legacy, Revenue:  > $200 000 ,58%, Downloads:  > 2 000 000 ,-
+Photoshop Express Photo Editor, Revenue:  > $1 000 000 ,48%, Downloads:  > 2 000 000 ,12%
+Mutant Run, Revenue:  > $5 000 ,10%, Downloads:  > 2 000 000 ,-
+Rope Hero: Vice Town, Revenue:  > $10 000 ,40%, Downloads:  > 2 000 000 ,-
+Fonts Keyboard, Revenue:  > $500 000 ,52%, Downloads:  > 2 000 000 ,10%
+Super Sus -Who Is The Impostor, Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,-
+交管12123,-,-, Downloads:  > 2 000 000 ,-
+Kinja Run, Revenue:  > $1 000 000 ,-, Downloads:  > 1 000 000 ,-
+Dream League Soccer 2022, Revenue:  > $1 000 000 ,25%, Downloads:  > 2 000 000 ,-
+Google Authenticator,-,-, Downloads:  > 2 000 000 ,21%
+Sniper 3D：Gun Shooting Games, Revenue:  > $2 000 000 ,51%, Downloads:  > 2 000 000 ,11%
+Block Box Skyland Sword,-,-, Downloads:  > 2 000 000 ,-
+Craft Monster Crazy Sword,-,-, Downloads:  > 2 000 000 ,13%
+淘宝 - 太好逛了吧,-,-, Downloads:  > 2 000 000 ,-
+fitpro,-,-, Downloads:  > 2 000 000 ,-
+Minecraft Trial,-,-, Downloads:  > 2 000 000 ,-
+Bottle Jump 3D, Revenue:  > $10 000 ,-, Downloads:  > 2 000 000 ,14%
+Asphalt 8 - Car Racing Game, Revenue:  > $200 000 ,40%, Downloads:  > 2 000 000 ,-
+Amazon Music: Songs & Podcasts, Revenue:  > $10 000 000 ,58%, Downloads:  > 2 000 000 ,19%
+Wattpad - Read & Write Stories, Revenue:  > $1 000 000 ,58%, Downloads:  > 2 000 000 ,13%
+CC FileManager,-,-, Downloads:  > 2 000 000 ,-
+Google Play Books & Audiobooks,-,-, Downloads:  > 2 000 000 ,-
+夸克-新生代智能搜索, Revenue:  > $1 000 000 ,-, Downloads:  > 2 000 000 ,-
+京东-不负每一份热爱,-,-, Downloads:  > 2 000 000 ,-
+百度, Revenue:  > $500 000 ,-, Downloads:  > 2 000 000 ,-
+VLC for Android, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Fox VPN - Fast for Privacy,-,-, Downloads:  > 2 000 000 ,-
+Train Status Ticket Book PNR,-,-, Downloads:  > 2 000 000 ,-
+Crazy Plane Landing, Revenue:  > $10 000 ,34%, Downloads:  > 2 000 000 ,-
+Meitu- Photo & Video Editor, Revenue:  > $1 000 000 ,-, Downloads:  > 2 000 000 ,-
+Street Racing 3D, Revenue:  > $10 000 ,13%, Downloads:  > 2 000 000 ,-
+Happy Color® – Color by Number, Revenue:  > $200 000 ,65%, Downloads:  > 2 000 000 ,17%
+"Video downloader, save video", Revenue:  < $5 000 ,26%, Downloads:  > 2 000 000 ,-
+Google Chat,-,-, Downloads:  > 2 000 000 ,39%
+Super Bino Go:Adventure Jungle, Revenue:  < $5 000 ,14%, Downloads:  > 2 000 000 ,-
+zenly - your world,-,-, Downloads:  > 2 000 000 ,-
+World War: Fight For Freedom, Revenue:  > $20 000 ,46%, Downloads:  > 2 000 000 ,-
+Crunchyroll, Revenue:  > $10 000 000 ,64%, Downloads:  > 2 000 000 ,17%
+"Vi: Recharge, Music, Games, TV",-,-, Downloads:  > 2 000 000 ,-
+TranslateGo - 100+ language,-,-, Downloads:  > 1 000 000 ,-
+Differences - find & spot them, Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,12%
+Dino Domination,-,-, Downloads:  > 1 000 000 ,-
+Home Flip: Crazy Jump Master, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,11%
+Coach Bus Simulator Bus Game, Revenue:  < $5 000 ,15%, Downloads:  > 2 000 000 ,-
+Take Them Off, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Perfect Cream, Revenue:  > $50 000 ,49%, Downloads:  > 2 000 000 ,-
+Wave Live Wallpapers Maker 3D, Revenue:  > $5 000 ,51%, Downloads:  > 2 000 000 ,-
+Office Fever, Revenue:  > $20 000 ,14%, Downloads:  > 5 000 000 ,-
+Sculpt people,-,-, Downloads:  > 2 000 000 ,-
+Amazon Alexa,-,-, Downloads:  > 2 000 000 ,29%
+VPN Proxy Master - Safer Vpn, Revenue:  > $50 000 ,10%, Downloads:  > 2 000 000 ,-
+"Bolt: Fast, Affordable Rides",-,-, Downloads:  > 2 000 000 ,-
+"Nox Cleaner - Booster, Master", Revenue:  < $5 000 ,12%, Downloads:  > 2 000 000 ,-
+"Voot, Bigg Boss, Colors TV", Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,-
+Gardenscapes, Revenue:  > $20 000 000 ,34%, Downloads:  > 2 000 000 ,-
+Tank Stars, Revenue:  > $100 000 ,52%, Downloads:  > 2 000 000 ,-
+FPS Commando Shooting Games, Revenue:  < $5 000 ,31%, Downloads:  > 2 000 000 ,-
+Chess,-,-, Downloads:  > 2 000 000 ,-
+Clean Master Ultra - Clean and Boost, Revenue:  < $5 000 ,14%, Downloads:  > 2 000 000 ,-
+Floof - My Pet House, Revenue:  > $50 000 ,62%, Downloads:  > 2 000 000 ,10%
+Comics Bob,-,-, Downloads:  > 2 000 000 ,-
+Life360: Find Family & Friends, Revenue:  > $5 000 000 ,89%, Downloads:  > 2 000 000 ,52%
+McDonald's,-,-, Downloads:  > 2 000 000 ,-
+Huggy Play Time Puzzle Game,-,-, Downloads:  > 2 000 000 ,-
+Basket Battle, Revenue:  < $5 000 ,21%, Downloads:  > 2 000 000 ,12%
+Smart Puzzles Collection, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Hungry Shark World, Revenue:  > $500 000 ,54%, Downloads:  > 2 000 000 ,11%
+Smash Colors 3D: Swing & Dash, Revenue:  > $100 000 ,44%, Downloads:  > 2 000 000 ,-
+Bobble Keyboard,-,-, Downloads:  > 2 000 000 ,-
+Swiggy Food & Grocery Delivery,-,-, Downloads:  > 2 000 000 ,-
+Rapido Bike Taxi & Auto,-,-, Downloads:  > 2 000 000 ,-
+Beat Maker Pro - DJ Drum Pad, Revenue:  > $500 000 ,55%, Downloads:  > 2 000 000 ,27%
+Uber - Driver: Drive & Deliver,-,-, Downloads:  > 2 000 000 ,24%
+Pop it Fidget Toys 3D,-,-, Downloads:  > 2 000 000 ,-
+First To Life, Revenue:  < $5 000 ,27%, Downloads:  > 2 000 000 ,15%
+Cast for Chromecast & TV Cast, Revenue:  > $50 000 ,38%, Downloads:  > 2 000 000 ,11%
+Real Gangster Crime, Revenue:  > $5 000 ,24%, Downloads:  > 2 000 000 ,-
+Video Maker Music Video Editor, Revenue:  > $200 000 ,-, Downloads:  > 2 000 000 ,-
+"Good Pizza, Great Pizza", Revenue:  > $100 000 ,47%, Downloads:  > 2 000 000 ,-
+Cooking Madness -A Chef's Game, Revenue:  > $2 000 000 ,55%, Downloads:  > 2 000 000 ,-
+Stick Hero: Mighty Tower Wars,-,-, Downloads:  > 2 000 000 ,-
+Chikii-Let's hang out!PC Games, Revenue:  > $50 000 ,-, Downloads:  > 1 000 000 ,-
+Junglee Rummy: Play Rummy Game,-,-, Downloads:  > 2 000 000 ,-
+Neon Love Theme,-,-, Downloads:  > 2 000 000 ,-
+Papers Grade Please!, Revenue:  < $5 000 ,15%, Downloads:  > 2 000 000 ,-
+Dancing Hair - Music Race 3D,-,-, Downloads:  > 2 000 000 ,-
+Firefox Fast & Private Browser,-,-, Downloads:  > 2 000 000 ,13%
+Hair Challenge, Revenue:  > $20 000 ,72%, Downloads:  > 2 000 000 ,14%
+adidas,-,-, Downloads:  > 2 000 000 ,15%
+All Document Reader and Viewer, Revenue:  < $5 000 ,14%, Downloads:  > 2 000 000 ,-
+Tata Neu-rewarding experiences,-,-, Downloads:  > 2 000 000 ,-
+Diablo Immortal, Revenue:  > $20 000 000 ,36%, Downloads:  > 2 000 000 ,17%
+"Adobe Scan: PDF Scanner, OCR", Revenue:  > $500 000 ,51%, Downloads:  > 2 000 000 ,10%
+Garena RoV: RoV DAY, Revenue:  > $10 000 000 ,-, Downloads:  > 2 000 000 ,-
+SnapEdit: Remove Excess Object, Revenue:  > $10 000 ,-, Downloads:  > 2 000 000 ,-
+Total Football,-,-, Downloads:  > 500 000 ,-
+Towing Race, Revenue:  > $20 000 ,48%, Downloads:  > 2 000 000 ,-
+Flo Period & Ovulation Tracker, Revenue:  > $5 000 000 ,58%, Downloads:  > 2 000 000 ,18%
+ClevCalc - Calculator, Revenue:  > $5 000 ,-, Downloads:  > 2 000 000 ,-
+Clash Royale, Revenue:  > $10 000 000 ,47%, Downloads:  > 2 000 000 ,15%
+Save The Pirate! Make choices!, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Google Play Games,-,-, Downloads:  > 2 000 000 ,-
+Move Animals, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,13%
+LINE, Revenue:  > $20 000 000 ,-, Downloads:  > 2 000 000 ,-
+SAKURA School Simulator,-,-, Downloads:  > 2 000 000 ,-
+Shape-shifting, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+slither.io, Revenue:  > $5 000 ,32%, Downloads:  > 2 000 000 ,13%
+Cat Paradise,-,-, Downloads:  > 2 000 000 ,-
+Likee - Community of Interests, Revenue:  > $1 000 000 ,27%, Downloads:  > 2 000 000 ,-
+Bouncemasters, Revenue:  > $50 000 ,63%, Downloads:  > 2 000 000 ,-
+Color Adventure: Draw the Path, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Google Classroom,-,-, Downloads:  > 2 000 000 ,10%
+Monster Squad Rush, Revenue:  > $10 000 ,27%, Downloads:  > 5 000 000 ,-
+Mob Control, Revenue:  > $500 000 ,56%, Downloads:  > 2 000 000 ,24%
+Become a Queen, Revenue:  > $5 000 ,17%, Downloads:  > 1 000 000 ,29%
+Project Makeover, Revenue:  > $10 000 000 ,63%, Downloads:  > 2 000 000 ,16%
+Monster Egg, Revenue:  < $5 000 ,17%, Downloads:  > 2 000 000 ,-
+Truck Simulator : Europe, Revenue:  > $5 000 ,-, Downloads:  > 2 000 000 ,-
+Block Craft 3D：Building Game, Revenue:  > $100 000 ,50%, Downloads:  > 2 000 000 ,-
+Everskies: Virtual Dress up, Revenue:  > $100 000 ,51%, Downloads:  > 1 000 000 ,25%
+Brawl Stars, Revenue:  > $10 000 000 ,21%, Downloads:  > 2 000 000 ,-
+Fruit Ninja®, Revenue:  > $20 000 ,17%, Downloads:  > 2 000 000 ,10%
+Racing in Car 2, Revenue:  < $5 000 ,10%, Downloads:  > 2 000 000 ,-
+Opera Browser: Fast & Private, Revenue:  > $20 000 ,14%, Downloads:  > 2 000 000 ,-
+Yalla Ludo - Ludo&Domino, Revenue:  > $5 000 000 ,38%, Downloads:  > 2 000 000 ,-
+PK XD - Explore Universes!, Revenue:  > $200 000 ,19%, Downloads:  > 2 000 000 ,-
+DIY Keyboard,-,-, Downloads:  > 2 000 000 ,-
+GB Wasahp Version 2022 Plus,-,-, Downloads:  > 1 000 000 ,-
+Amazon Kindle, Revenue:  > $200 000 ,99%, Downloads:  > 2 000 000 ,23%
+Six Pack in 30 Days, Revenue:  > $20 000 ,-, Downloads:  > 2 000 000 ,-
+ToonApp: Cartoon Photo Editor, Revenue:  > $500 000 ,79%, Downloads:  > 2 000 000 ,19%
+Block Crazy Robo World,-,-, Downloads:  > 2 000 000 ,-
+Cyber Surfer: Beat&Skateboard, Revenue:  > $100 000 ,81%, Downloads:  > 2 000 000 ,19%
+PDF Reader App : Read All PDF, Revenue:  > $50 000 ,28%, Downloads:  > 2 000 000 ,-
+Pure Tuber: Block Ads on Video,-,-, Downloads:  > 2 000 000 ,-
+Ice Cream Inc., Revenue:  > $10 000 ,11%, Downloads:  > 2 000 000 ,-
+美团-美好生活小帮手,-,-, Downloads:  > 2 000 000 ,-
+Bubbu – My Virtual Pet Cat, Revenue:  > $10 000 ,-, Downloads:  > 2 000 000 ,-
+Cat Escape, Revenue:  < $5 000 ,17%, Downloads:  > 2 000 000 ,12%
+Tennis Clash: Multiplayer Game, Revenue:  > $2 000 000 ,25%, Downloads:  > 2 000 000 ,-
+Google Calendar: Get Organized,-,-, Downloads:  > 2 000 000 ,28%
+SoloProxy- Fast and Secure,-,-, Downloads:  > 2 000 000 ,-
+Gem Stack, Revenue:  < $5 000 ,30%, Downloads:  > 2 000 000 ,13%
+Craft World - Master Building Block Game 3D,-,-, Downloads:  > 2 000 000 ,-
+MegaFlix - Filmes e Séries,-,-, Downloads:  > 1 000 000 ,-
+Thumb Access,-,-, Downloads:  > 1 000 000 ,-
+Cat Runner: Decorate Home, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Mad Royale io – Tank Battle,-,-, Downloads:  > 1 000 000 ,11%
+2248: Number Puzzle Games 2048, Revenue:  > $100 000 ,79%, Downloads:  > 2 000 000 ,11%
+Alight Motion, Revenue:  > $500 000 ,42%, Downloads:  > 2 000 000 ,-
+PDF Reader: PDF Viewer & Ebook, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,-
+Master Doctor 3D,-,-, Downloads:  > 2 000 000 ,-
+Bubble Shooter Rainbow, Revenue:  > $50 000 ,72%, Downloads:  > 2 000 000 ,-
+Mini World: CREATA, Revenue:  > $1 000 000 ,-, Downloads:  > 2 000 000 ,-
+Audible audiobooks & podcasts, Revenue:  > $20 000 000 ,76%, Downloads:  > 2 000 000 ,33%
+Stone Grass — Mowing Simulator, Revenue:  > $200 000 ,89%, Downloads:  > 2 000 000 ,18%
+Makeup Stylist:DIY Makeup Game, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Modern Indian Train Simulator,-,-, Downloads:  > 2 000 000 ,-
+Little Panda: Princess Ball, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+JioTV,-,-, Downloads:  > 2 000 000 ,-
+Absher | أبشر,-,-, Downloads:  > 1 000 000 ,-
+Stacky Dash, Revenue:  < $5 000 ,20%, Downloads:  > 2 000 000 ,-
+Helo - Humor and Social Trends,-,-, Downloads:  > 2 000 000 ,-
+House Designer : Fix & Flip, Revenue:  > $20 000 ,33%, Downloads:  > 2 000 000 ,-
+得物-有毒的运动×潮流×好物, Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,-
+Melon Playground,-,-, Downloads:  > 2 000 000 ,-
+Sort Em All -- Water Puzzle, Revenue:  < $5 000 ,25%, Downloads:  > 2 000 000 ,-
+Fonts Art: Keyboard Font Maker, Revenue:  > $500 000 ,47%, Downloads:  > 2 000 000 ,12%
+City Train Driver- Train Games, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Mini Car Racing Game Offline, Revenue:  < $5 000 ,25%, Downloads:  > 2 000 000 ,-
+Scary Teacher 3D, Revenue:  > $20 000 ,26%, Downloads:  > 2 000 000 ,-
+Signal Private Messenger,-,-, Downloads:  > 2 000 000 ,21%
+Pokémon UNITE, Revenue:  > $2 000 000 ,26%, Downloads:  > 2 000 000 ,11%
+Sticker maker, Revenue:  < $5 000 ,10%, Downloads:  > 2 000 000 ,-
+Popsicle Stack, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Oil Tanker Truck Driving Games, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Higgs Domino Island, Revenue:  > $2 000 000 ,-, Downloads:  > 2 000 000 ,-
+Star+, Revenue:  > $1 000 000 ,-, Downloads:  > 2 000 000 ,-
+"Viu: Dramas, TV Shows & Movies", Revenue:  > $1 000 000 ,-, Downloads:  > 2 000 000 ,-
+Toca Kitchen 2, Revenue:  > $50 000 ,53%, Downloads:  > 2 000 000 ,-
+Move People, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,13%
+Dark Riddle, Revenue:  > $10 000 ,11%, Downloads:  > 2 000 000 ,-
+Bike Stunt 3d Motorcycle Games, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+PublicVibe: Local Area Videos,-,-, Downloads:  > 2 000 000 ,-
+Pocket Champs: 3D Racing Games, Revenue:  > $500 000 ,18%, Downloads:  > 1 000 000 ,-
+Granny: Chapter Two,-,-, Downloads:  > 2 000 000 ,-
+Beatstar - Touch Your Music, Revenue:  > $2 000 000 ,54%, Downloads:  > 2 000 000 ,24%
+Knife Hit, Revenue:  > $10 000 ,-, Downloads:  > 2 000 000 ,-
+Voice Recorder Pro, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Auto Clicker - Automatic tap, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+OmeTV – Video Chat Alternative, Revenue:  > $200 000 ,15%, Downloads:  > 2 000 000 ,-
+"FaceLab: Face Editor, Aging", Revenue:  > $100 000 ,44%, Downloads:  > 2 000 000 ,-
+Educational games for kids 2-4, Revenue:  > $200 000 ,51%, Downloads:  > 2 000 000 ,-
+Blockudoku®: block puzzle game, Revenue:  > $200 000 ,43%, Downloads:  > 2 000 000 ,10%
+"Expedia: Hotels, Flights & Car",-,-, Downloads:  > 2 000 000 ,66%
+Secure VPN－Safer Internet, Revenue:  > $20 000 ,24%, Downloads:  > 2 000 000 ,-
+Bitmoji,-,-, Downloads:  > 2 000 000 ,13%
+Doll Dress Up - Makeup Games, Revenue:  < $5 000 ,10%, Downloads:  > 2 000 000 ,-
+Zoo - Happy Animals,-,-, Downloads:  > 2 000 000 ,-
+Selfie Camera for iPhone 13,-,-, Downloads:  > 2 000 000 ,-
+Fidget Toys Trading: Pop It 3D, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Mini Militia - Doodle Army 2, Revenue:  > $10 000 ,-, Downloads:  > 2 000 000 ,-
+Monsters Gang 3D: beast fights, Revenue:  > $10 000 ,33%, Downloads:  > 2 000 000 ,15%
+DWMS Connect,-,-, Downloads:  > 500 000 ,-
+MeetYou - Period Tracker, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Airport Master, Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,11%
+Wordscapes, Revenue:  > $5 000 000 ,86%, Downloads:  > 2 000 000 ,46%
+Payback 2 - The Battle Sandbox, Revenue:  > $5 000 ,20%, Downloads:  > 2 000 000 ,-
+Background Eraser, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Head Ball 2 - Online Soccer, Revenue:  > $500 000 ,20%, Downloads:  > 2 000 000 ,-
+Bubble Shooter - Home Design,-,-, Downloads:  > 2 000 000 ,-
+Top War: Battle Game, Revenue:  > $20 000 000 ,31%, Downloads:  > 2 000 000 ,25%
+Extreme Balancer 3, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+GoodNotes 5, Revenue:  > $2 000 000 ,17%, Downloads:  > 2 000 000 ,17%
+Zooba: Zoo Battle Royale Game, Revenue:  > $2 000 000 ,39%, Downloads:  > 2 000 000 ,11%
+eBay: The shopping marketplace,-,-, Downloads:  > 2 000 000 ,44%
+"Wallcraft – Wallpapers 4K, HD",-,-,-,44%
+Kuku FM - Audiobooks & Stories, Revenue:  > $5 000 ,-, Downloads:  > 2 000 000 ,-
+Ludo STAR, Revenue:  > $1 000 000 ,17%, Downloads:  > 2 000 000 ,-
+DoorDash - Food Delivery,-,-, Downloads:  > 2 000 000 ,82%
+Step Counter - Pedometer, Revenue:  > $20 000 ,18%, Downloads:  > 2 000 000 ,-
+Sweet Girl: Doll Dress Up Game, Revenue:  < $5 000 ,16%, Downloads:  > 2 000 000 ,-
+"Ticketmaster－Buy, Sell Tickets",-,-, Downloads:  > 2 000 000 ,72%
+Art Puzzle - jigsaw art games, Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,15%
+"BeautyPlus-Edit,Retouch,Filter", Revenue:  > $2 000 000 ,23%, Downloads:  > 2 000 000 ,-
+Hole.io, Revenue:  > $200 000 ,59%, Downloads:  > 2 000 000 ,23%
+OLX: Buy & Sell Near You with Online Classifieds,-,-, Downloads:  > 2 000 000 ,-
+Football Strike: Online Soccer, Revenue:  > $200 000 ,28%, Downloads:  > 2 000 000 ,-
+Gojek,-,-, Downloads:  > 2 000 000 ,-
+Fashion Battle - Catwalk Queen,-,-, Downloads:  > 2 000 000 ,-
+Phone Ringtones, Revenue:  > $10 000 ,14%, Downloads:  > 2 000 000 ,-
+Riding Extreme 3D, Revenue:  > $50 000 ,75%, Downloads:  > 2 000 000 ,-
+Bumble - Dating. Friends. Bizz, Revenue:  > $20 000 000 ,65%, Downloads:  > 2 000 000 ,34%
+Sonic Forces - Running Battle, Revenue:  > $200 000 ,63%, Downloads:  > 2 000 000 ,11%
+Move to iOS,-,-, Downloads:  > 2 000 000 ,18%
+"MP3 Downloader, YouTube Player", Revenue:  > $10 000 ,20%, Downloads:  > 2 000 000 ,-
+Cookie Carver: Life Challenge, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Pocket FM: Audiobook & Podcast, Revenue:  > $1 000 000 ,93%, Downloads:  > 2 000 000 ,-
+YouCut - Video Editor & Maker, Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,-
+Pro League Soccer,-,-,-,-
+Photo Editor Pro Collage Maker, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+CashTube,-,-, Downloads:  > 2 000 000 ,-
+"Shining wallpaper,4K HD",-,-, Downloads:  > 500 000 ,-
+QQ音乐 - 让生活充满音乐, Revenue:  > $20 000 000 ,-, Downloads:  > 2 000 000 ,-
+Gold & Goblins: Idle Merger, Revenue:  > $2 000 000 ,57%, Downloads:  > 1 000 000 ,17%
+Royal Match, Revenue:  > $20 000 000 ,62%, Downloads:  > 2 000 000 ,25%
+Makeup Battle, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,-
+Surgeon Simulator Doctor Games, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Vido : Video Status Maker,-,-,-,-
+VPN GO - Private Net Access, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,-
+Connect Animal, Revenue:  > $5 000 ,45%, Downloads:  > 2 000 000 ,-
+Coloring Games: Color & Paint,-,-, Downloads:  > 2 000 000 ,-
+Skype, Revenue:  > $2 000 000 ,35%, Downloads:  > 2 000 000 ,15%
+Bus Simulator Games: Bus Games, Revenue:  < $5 000 ,14%, Downloads:  > 2 000 000 ,-
+Google Duo,-,-, Downloads:  > 2 000 000 ,37%
+Color Match, Revenue:  > $200 000 ,64%, Downloads:  > 2 000 000 ,20%
+Rope and Demolish, Revenue:  > $20 000 ,-, Downloads:  > 2 000 000 ,19%
+Frozen Honey ASMR,-,-, Downloads:  > 2 000 000 ,13%
+Gun Sprint,-,-, Downloads:  > 1 000 000 ,13%
+Rooter: Watch Gaming & Esports,-,-, Downloads:  > 2 000 000 ,-
+Parking Car Driving School Sim, Revenue:  < $5 000 ,21%, Downloads:  > 2 000 000 ,-
+Foot Clinic - ASMR Feet Care,-,-, Downloads:  > 2 000 000 ,-
+"Binance: BTC, 600+ Crypto, NFT",-,-, Downloads:  > 2 000 000 ,-
+MiniCraft: Blocky Craft 2022, Revenue:  > $5 000 ,33%, Downloads:  > 2 000 000 ,-
+HD Camera,-,-, Downloads:  > 2 000 000 ,-
+Applock Pro - App Lock & Guard, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Hill Climb Racing 2, Revenue:  > $1 000 000 ,52%, Downloads:  > 2 000 000 ,13%
+优酷-沉香如屑 全网独播, Revenue:  > $20 000 000 ,-, Downloads:  > 2 000 000 ,-
+Block Box Master Diamond,-,-, Downloads:  > 500 000 ,-
+Punch Guys, Revenue:  < $5 000 ,47%, Downloads:  > 2 000 000 ,15%
+Dude Theft Wars: Offline games, Revenue:  > $5 000 ,26%, Downloads:  > 2 000 000 ,-
+Carteira de Trabalho Digital,-,-, Downloads:  > 2 000 000 ,-
+The President,-,-, Downloads:  > 2 000 000 ,34%
+PictureThis - Plant Identifier, Revenue:  > $5 000 000 ,62%, Downloads:  > 2 000 000 ,31%
+Domino's Pizza - Online Food Delivery App,-,-, Downloads:  > 2 000 000 ,-
+Baby Panda's City, Revenue:  > $10 000 ,14%, Downloads:  > 2 000 000 ,-
+DIY Joystick,-,-, Downloads:  > 2 000 000 ,13%
+QANDA: Instant Math Helper, Revenue:  > $100 000 ,-, Downloads:  > 1 000 000 ,-
+Children's doctor : dentist, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Virus Remover - Fast & Secure,-,-, Downloads:  > 2 000 000 ,-
+Super VPN - Stable & Fast VPN,-,-, Downloads:  > 1 000 000 ,-
+Myntra - Fashion Shopping App,-,-, Downloads:  > 2 000 000 ,-
+WAMR - Recover deleted messages & status download, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,-
+Block Puzzle Jewel,-,-, Downloads:  > 2 000 000 ,-
+Manzanota, Revenue:  < $5 000 ,-, Downloads:  > 500 000 ,-
+Get Lucky: Run To The Pool,-,-, Downloads:  > 2 000 000 ,-
+Microsoft Edge: Web Browser,-,-, Downloads:  > 2 000 000 ,17%
+Yellow Rope Game,-,-, Downloads:  > 2 000 000 ,-
+Frenzy Slots,-,-, Downloads:  > 500 000 ,-
+e-Devlet Kapısı,-,-, Downloads:  > 1 000 000 ,-
+Cake: Lesson updates every day, Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,-
+Giant Rush!, Revenue:  < $5 000 ,12%, Downloads:  > 2 000 000 ,-
+1.1.1.1: Faster & Safer Internet, Revenue:  > $100 000 ,-, Downloads:  > 2 000 000 ,-
+Draw 2 Save: Stickman Puzzle,-,-, Downloads:  > 2 000 000 ,-
+Play Together VNG, Revenue:  > $100 000 ,-, Downloads:  > 2 000 000 ,-
+Beach Buggy Racing, Revenue:  > $20 000 ,22%, Downloads:  > 2 000 000 ,-
+Talking Ben the Dog, Revenue:  > $10 000 ,13%, Downloads:  > 2 000 000 ,11%
+Fidget Toys 3D Antis Stress,-,-, Downloads:  > 2 000 000 ,-
+Garena Blockman GO, Revenue:  > $100 000 ,-, Downloads:  > 2 000 000 ,-
+JioMart Online Shopping App,-,-, Downloads:  > 2 000 000 ,-
+Soccer Cup 2022: Football Game, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Dress Up Fashion Challenge,-,-, Downloads:  > 2 000 000 ,-
+Badoo - Dating. Chat. Meet., Revenue:  > $5 000 000 ,18%, Downloads:  > 2 000 000 ,12%
+Super Goal - Soccer Stickman, Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,-
+Parallel Space - Multiple accounts & Two face, Revenue:  > $10 000 ,13%, Downloads:  > 2 000 000 ,-
+File Manager, Revenue:  > $10 000 ,18%, Downloads:  > 2 000 000 ,-
+Raft Survival - Ocean Nomad, Revenue:  > $500 000 ,64%, Downloads:  > 2 000 000 ,15%
+QuizzLand. Quiz & Trivia game, Revenue:  > $50 000 ,18%, Downloads:  > 2 000 000 ,-
+HP Smart,-,-, Downloads:  > 2 000 000 ,28%
+Etsy: Custom & Creative Goods,-,-, Downloads:  > 2 000 000 ,57%
+State.io — Conquer the World, Revenue:  > $10 000 ,16%, Downloads:  > 2 000 000 ,11%
+DigiLocker,-,-, Downloads:  > 2 000 000 ,-
+McDonald's,-,-, Downloads:  > 2 000 000 ,100%
+GPS Map Camera: Geotag Photos & Add GPS Location, Revenue:  > $5 000 ,-, Downloads:  > 2 000 000 ,-
+"maxim — order taxi, food",-,-, Downloads:  > 2 000 000 ,-
+Mi Home - Xiaomi Smart Home, Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,-
+DNADino, Revenue:  < $5 000 ,-, Downloads:  > 500 000 ,11%
+Super Slime Simulator: DIY Art, Revenue:  > $20 000 ,67%, Downloads:  > 2 000 000 ,25%
+Moto X3M Bike Race Game, Revenue:  > $5 000 ,19%, Downloads:  > 2 000 000 ,-
+Gem Planet Merge- Puzzle,-,-, Downloads:  > 1 000 000 ,-
+Xbox,-,-, Downloads:  > 2 000 000 ,33%
+Bottle Shooting Game, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Bus Game: Driving Simulator 3D, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+西瓜视频, Revenue:  > $200 000 ,-, Downloads:  > 1 000 000 ,-
+Ludo,-,-, Downloads:  > 2 000 000 ,-
+[3D Platformer] Super Bear Adventure, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Impulse - Brain Training, Revenue:  > $1 000 000 ,56%, Downloads:  > 1 000 000 ,26%
+百度网盘-释放手机空间, Revenue:  > $5 000 000 ,-, Downloads:  > 2 000 000 ,-
+Craft Sun Master Vip,-,-, Downloads:  > 1 000 000 ,16%
+Venom City Craft,-,-, Downloads:  > 2 000 000 ,-
+Jigsaw Puzzles - Block Puzzle (Tow in one),-,-, Downloads:  > 2 000 000 ,-
+Prison Break: Stickman Adventure, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Little Panda's Town: My World, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Drum Pad Machine - beat maker, Revenue:  > $100 000 ,57%, Downloads:  > 2 000 000 ,12%
+Used Car Tycoon Games, Revenue:  > $500 000 ,35%, Downloads:  > 2 000 000 ,-
+Streamer Rush,-,-, Downloads:  > 1 000 000 ,12%
+"Nox Security, Antivirus, Clean", Revenue:  < $5 000 ,24%, Downloads:  > 2 000 000 ,-
+Merge Super - Monster Fight,-,-, Downloads:  > 2 000 000 ,12%
+Traffic Racer, Revenue:  > $20 000 ,22%, Downloads:  > 2 000 000 ,-
+Car Games - Car Parking Games, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Apex Legends Mobile, Revenue:  > $5 000 000 ,31%, Downloads:  > 2 000 000 ,38%
+Mutant Escape, Revenue:  < $5 000 ,-, Downloads:  > 500 000 ,-
+今日头条,-,-, Downloads:  > 1 000 000 ,-
+DEAD TARGET: Zombie Games 3D, Revenue:  > $200 000 ,40%, Downloads:  > 2 000 000 ,-
+Magic Hop: EDM & Dancing, Revenue:  > $50 000 ,84%, Downloads:  > 2 000 000 ,-
+Ball Sort - Color Puzzle Game, Revenue:  > $5 000 ,29%, Downloads:  > 2 000 000 ,19%
+SonyLIV:Entertainment & Sports, Revenue:  > $200 000 ,-, Downloads:  > 2 000 000 ,-
+Giant Wanted, Revenue:  > $5 000 ,33%, Downloads:  > 2 000 000 ,12%
+Files by Google,-,-,-,12%
+Bunny Hub PRO, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Traffic and Driving Simulator, Revenue:  < $5 000 ,32%, Downloads:  > 5 000 000 ,-
+Photo Lab Picture Editor & Art, Revenue:  > $100 000 ,48%, Downloads:  > 2 000 000 ,-
+"LED Keyboard: Emoji, Fonts", Revenue:  < $5 000 ,42%, Downloads:  > 2 000 000 ,-
+Roku - Official Remote Control,-,-, Downloads:  > 2 000 000 ,76%
+"Ola, Safe and affordable rides",-,-, Downloads:  > 2 000 000 ,-
+Talking Tom Cat 2, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+HD Video Player All Formats, Revenue:  < $5 000 ,24%, Downloads:  > 2 000 000 ,-
+Numpuz: Classic Number Games, Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,-
+Ramp Car Stunts - Car Games, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Tubi - Movies & TV Shows,-,-, Downloads:  > 2 000 000 ,73%
+Pepi Hospital: Learn & Care, Revenue:  > $10 000 ,22%, Downloads:  > 2 000 000 ,-
+DiDi Rider: Affordable rides,-,-, Downloads:  > 2 000 000 ,-
+Video Downloader for Instagram, Revenue:  > $20 000 ,13%, Downloads:  > 2 000 000 ,-
+Wish - Shopping Made Fun,-,-, Downloads:  > 2 000 000 ,19%
+BandLab – Music Making Studio,-,-, Downloads:  > 2 000 000 ,19%
+Bus Simulator - Bus Games 3D, Revenue:  < $5 000 ,21%, Downloads:  > 2 000 000 ,-
+Diamante Pipas, Revenue:  > $5 000 ,-, Downloads:  > 1 000 000 ,-
+Teen Patti Go,-,-, Downloads:  > 2 000 000 ,-
+Bear - Privacy & Security,-,-, Downloads:  > 2 000 000 ,-
+bhop pro, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+"Robot Game, Red Robot Police",-,-, Downloads:  > 2 000 000 ,-
+NGL: anonymous q&a, Revenue:  > $100 000 ,27%, Downloads:  > 2 000 000 ,-
+Farming Simulator 16, Revenue:  > $20 000 ,21%, Downloads:  > 1 000 000 ,-
+Edge Lighting - Borderlight, Revenue:  > $20 000 ,40%, Downloads:  > 2 000 000 ,-
+Tangle Master 3D, Revenue:  > $200 000 ,47%, Downloads:  > 2 000 000 ,17%
+Save The Dog - Dog Escape, Revenue:  < $5 000 ,-, Downloads:  > 500 000 ,-
+Ludo Club - Fun Dice Game, Revenue:  > $200 000 ,22%, Downloads:  > 2 000 000 ,-
+Microsoft OneDrive, Revenue:  > $5 000 000 ,35%, Downloads:  > 2 000 000 ,17%
+Easy Booster -easy cleaner,-,-, Downloads:  > 500 000 ,-
+Status Saver - Video Download, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Tank Combat: War Battle, Revenue:  < $5 000 ,28%, Downloads:  > 1 000 000 ,-
+Vinted: Sell vintage clothing,-,-, Downloads:  > 2 000 000 ,-
+WEBTOON, Revenue:  > $10 000 000 ,34%, Downloads:  > 2 000 000 ,19%
+Kpopsies - Hatch Baby Unicorns, Revenue:  > $5 000 ,16%, Downloads:  > 1 000 000 ,-
+Fun Race 3D, Revenue:  > $10 000 ,-, Downloads:  > 2 000 000 ,-
+Sudoku.com - Number Games, Revenue:  > $200 000 ,45%, Downloads:  > 2 000 000 ,20%
+Triple Tile,-,-, Downloads:  > 2 000 000 ,14%
+Video Downloader & Video Saver,-,-, Downloads:  > 2 000 000 ,-
+Water Sort - Color Puzzle Game, Revenue:  > $50 000 ,-, Downloads:  > 2 000 000 ,23%
+Shop: All your favorite brands,-,-,-,23%
+City Driving School Car Games, Revenue:  > $50 000 ,61%, Downloads:  > 2 000 000 ,-
+All Video Downloader App, Revenue:  < $5 000 ,15%, Downloads:  > 2 000 000 ,-
+Dragon City Mobile, Revenue:  > $2 000 000 ,54%, Downloads:  > 2 000 000 ,17%
+OctaFX Trading App,-,-, Downloads:  > 1 000 000 ,-
+BlissU Pro – Online chat, Revenue:  > $20 000 ,-, Downloads:  > 1 000 000 ,-
+番茄小说 - 热门全本小说电子书阅读器, Revenue:  > $500 000 ,-, Downloads:  > 2 000 000 ,-
+Locket Widget,-,-, Downloads:  > 2 000 000 ,25%
+WA Deleted Messages Recovery, Revenue:  > $100 000 ,18%, Downloads:  > 2 000 000 ,-
+Draw Bridge Games: Save Car,-,-, Downloads:  > 2 000 000 ,-
+Speed Booster-Phone Cleaner,-,-, Downloads:  > 1 000 000 ,-
+Real Dino Hunting: Zoo Hunter, Revenue:  < $5 000 ,16%, Downloads:  > 2 000 000 ,-
+Pi Network,-,-, Downloads:  > 1 000 000 ,-
+Gun Strike:Offline Shooting 3D, Revenue:  < $5 000 ,11%, Downloads:  > 2 000 000 ,-
+Mi Fitness (Xiaomi Wear),-,-, Downloads:  > 2 000 000 ,-
+The Baby In Yellow, Revenue:  > $5 000 ,-, Downloads:  > 2 000 000 ,11%
+DOP: Draw One Part, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Cash’em All: Play & Win,-,-, Downloads:  > 2 000 000 ,-
+Figgerits - Logic Puzzles Game, Revenue:  > $200 000 ,77%, Downloads:  > 2 000 000 ,33%
+Sweet Face: beauty face camera, Revenue:  < $5 000 ,17%, Downloads:  > 2 000 000 ,-
+Phoenix Browser - Fast & Safe, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+क्रेडिटबी-ऑनलाइन पर्सनल लोन ऐप,-,-, Downloads:  > 2 000 000 ,-
+World Soccer League, Revenue:  > $5 000 ,-, Downloads:  > 2 000 000 ,-
+Park Master, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,10%
+PeduliLindungi,-,-, Downloads:  > 2 000 000 ,-
+Shadow Fight 2, Revenue:  > $200 000 ,46%, Downloads:  > 2 000 000 ,-
+Dancing Road: Color Ball Run!, Revenue:  > $200 000 ,39%, Downloads:  > 2 000 000 ,11%
+Yalla - Group Voice Chat Rooms, Revenue:  > $2 000 000 ,38%, Downloads:  > 2 000 000 ,-
+Wildberries,-,-, Downloads:  > 2 000 000 ,-
+Music Player - MP3 Player, Revenue:  > $10 000 ,30%, Downloads:  > 2 000 000 ,-
+"MiChat - Chat, Make Friends",-,-, Downloads:  > 2 000 000 ,-
+X2 Blocks: 2048 Number Games, Revenue:  > $200 000 ,56%, Downloads:  > 2 000 000 ,-
+War of Rafts: Crazy Sea Battle, Revenue:  < $5 000 ,29%, Downloads:  > 2 000 000 ,-
+PREQUEL: Aesthetic AI Editor, Revenue:  > $1 000 000 ,60%, Downloads:  > 2 000 000 ,16%
+"GPS, Maps, Voice Navigation & Directions", Revenue:  > $10 000 ,-, Downloads:  > 1 000 000 ,-
+Boom Beach: Frontlines, Revenue:  > $10 000 ,-, Downloads:  > 500 000 ,-
+Coloring & Learn, Revenue:  > $5 000 ,14%, Downloads:  > 2 000 000 ,-
+Microsoft PowerPoint, Revenue:  > $500 000 ,18%, Downloads:  > 1 000 000 ,-
+Bus Simulator : Ultimate, Revenue:  > $200 000 ,-, Downloads:  > 2 000 000 ,-
+Photomath, Revenue:  > $1 000 000 ,85%, Downloads:  > 1 000 000 ,11%
+Video downloader for Instagram, Revenue:  > $20 000 ,16%, Downloads:  > 2 000 000 ,-
+Cooking Fever: Restaurant Game, Revenue:  > $1 000 000 ,63%, Downloads:  > 2 000 000 ,14%
+Higgs Slot-Domino Gaple QiuQiu, Revenue:  > $20 000 ,-, Downloads:  > 2 000 000 ,-
+FitCoach: Fitness Coach & Diet, Revenue:  > $1 000 000 ,38%, Downloads:  > 1 000 000 ,17%
+QR Scanner - Barcode Scanner, Revenue:  < $5 000 ,21%, Downloads:  > 2 000 000 ,13%
+VSCO: Photo & Video Editor, Revenue:  > $2 000 000 ,56%, Downloads:  > 2 000 000 ,12%
+Score! Hero 2022, Revenue:  > $200 000 ,19%, Downloads:  > 2 000 000 ,-
+Serasa: Consulta CPF e Score, Revenue:  > $200 000 ,-, Downloads:  > 2 000 000 ,-
+"GCash - Buy Load, Pay Bills, Send Money",-,-, Downloads:  > 1 000 000 ,-
+Shield Global Pass,-,-, Downloads:  > 1 000 000 ,-
+TanTan, Revenue:  > $2 000 000 ,-, Downloads:  > 2 000 000 ,-
+Cube Master 3D - Match Puzzle, Revenue:  > $1 000 000 ,71%, Downloads:  > 2 000 000 ,12%
+Webex Meetings,-,-, Downloads:  > 1 000 000 ,15%
+Vector: Parkour Run, Revenue:  > $20 000 ,-, Downloads:  > 2 000 000 ,-
+Hair Dye,-,-, Downloads:  > 2 000 000 ,10%
+Anchor - Make your own podcast,-,-, Downloads:  > 2 000 000 ,-
+Lidl Plus,-,-, Downloads:  > 2 000 000 ,-
+Google Assistant,-,-, Downloads:  > 2 000 000 ,11%
+Mr Bullet - Spy Puzzles, Revenue:  < $5 000 ,26%, Downloads:  > 2 000 000 ,11%
+Number Match - number games, Revenue:  > $200 000 ,62%, Downloads:  > 2 000 000 ,18%
+365Scores: Live Scores & News, Revenue:  > $10 000 ,13%, Downloads:  > 1 000 000 ,-
+Baby Games: Piano & Baby Phone,-,-, Downloads:  > 1 000 000 ,-
+GoTube,-,-, Downloads:  > 2 000 000 ,-
+Moj Lite +, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Hello Kitty Nail Salon, Revenue:  > $50 000 ,55%, Downloads:  > 2 000 000 ,-
+Flx Booster - Phone Cleaner,-,-, Downloads:  > 1 000 000 ,-
+The Superhero League, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,14%
+Loklok-PH Pro,-,-, Downloads:  > 1 000 000 ,-
+Bucket Crusher, Revenue:  > $10 000 ,48%, Downloads:  > 2 000 000 ,19%
+InCall: Personalization,-,-, Downloads:  > 500 000 ,11%
+PhonePe Business,-,-, Downloads:  > 1 000 000 ,-
+VivaVideo - Video Editor&Maker, Revenue:  > $1 000 000 ,11%, Downloads:  > 2 000 000 ,-
+Sharee (シェアリー),-,-, Downloads:  > 2 000 000 ,-
+Пятёрочка,-,-, Downloads:  > 1 000 000 ,-
+网易云音乐-1亿正版曲库有声内容, Revenue:  > $10 000 000 ,-, Downloads:  > 2 000 000 ,-
+Traffic Run!: Driving Game,-,-, Downloads:  > 2 000 000 ,16%
+Open Camera,-,-, Downloads:  > 1 000 000 ,-
+Motorcycle Real Simulator, Revenue:  < $5 000 ,16%, Downloads:  > 1 000 000 ,-
+Need for Speed™ No Limits, Revenue:  > $1 000 000 ,43%, Downloads:  > 2 000 000 ,-
+AppLock, Revenue:  > $5 000 ,19%, Downloads:  > 2 000 000 ,-
+"Phone 13 Launcher, OS 15", Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Hopping Heads: Scream & Shout, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,11%
+Shadow Fight 3 - RPG fighting, Revenue:  > $500 000 ,38%, Downloads:  > 2 000 000 ,-
+Phone Number Locator Caller id,-,-, Downloads:  > 2 000 000 ,-
+NetDoctor VPN | VPN Proxy,-,-, Downloads:  > 2 000 000 ,-
+闲鱼 - 闲不住？上闲鱼！,-,-, Downloads:  > 2 000 000 ,-
+MEGA, Revenue:  > $1 000 000 ,35%, Downloads:  > 2 000 000 ,13%
+"VK: music, video, messenger", Revenue:  > $1 000 000 ,-, Downloads:  > 2 000 000 ,-
+Timestamp Camera, Revenue:  > $10 000 ,-, Downloads:  > 1 000 000 ,-
+WalkingJoy,-,-,-,-
+Truck games - build a house, Revenue:  > $50 000 ,65%, Downloads:  > 2 000 000 ,-
+CamScanner - PDF Scanner App, Revenue:  > $2 000 000 ,14%, Downloads:  > 1 000 000 ,-
+Stunt Car Extreme, Revenue:  > $5 000 ,37%, Downloads:  > 1 000 000 ,-
+Bird Color Sort Puzzle, Revenue:  < $5 000 ,19%, Downloads:  > 2 000 000 ,-
+Video Editor - Video Effects, Revenue:  > $10 000 ,16%, Downloads:  > 2 000 000 ,-
+Earn to Die 2, Revenue:  > $20 000 ,31%, Downloads:  > 1 000 000 ,-
+Destiny Run,-,-,-,-
+Harvest.io – 3D Farming Arcade,-,-,-,-
+Zello PTT Walkie Talkie,-,-, Downloads:  > 1 000 000 ,11%
+Truck Driving Simulator Games,-,-, Downloads:  > 1 000 000 ,-
+Dress Up Games,-,-, Downloads:  > 2 000 000 ,-
+Gacha Life, Revenue:  < $5 000 ,24%, Downloads:  > 2 000 000 ,13%
+Asphalt 9: Legends, Revenue:  > $1 000 000 ,35%, Downloads:  > 2 000 000 ,16%
+Tie Dye,-,-, Downloads:  > 2 000 000 ,10%
+Dwen Cleaner,-,-, Downloads:  > 2 000 000 ,-
+Word Search - Word Puzzle Game, Revenue:  < $5 000 ,14%, Downloads:  > 2 000 000 ,-
+Baby Panda Care, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+App lock,-,-, Downloads:  > 2 000 000 ,-
+Contacts,-,-, Downloads:  > 2 000 000 ,-
+Flying Car Robot Shooting Game, Revenue:  < $5 000 ,25%, Downloads:  > 2 000 000 ,-
+FGTS,-,-, Downloads:  > 1 000 000 ,-
+"Bike Racing, Moto Stunt game",-,-, Downloads:  > 2 000 000 ,-
+Bubble Boxes : Match 3D, Revenue:  > $200 000 ,87%, Downloads:  > 1 000 000 ,11%
+FNF Music Night Battle, Revenue:  < $5 000 ,22%, Downloads:  > 1 000 000 ,13%
+TextSticker for WAStickerApps, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,-
+Pull It Down,-,-, Downloads:  > 1 000 000 ,15%
+obimy, Revenue:  > $20 000 ,30%, Downloads:  > 500 000 ,42%
+Baby Panda World, Revenue:  > $200 000 ,-, Downloads:  > 2 000 000 ,-
+BRImo BRI,-,-, Downloads:  > 1 000 000 ,-
+"OKEN - camscanner, pdf scanner",-,-, Downloads:  > 1 000 000 ,-
+Idle Miner Tycoon: Gold & Cash, Revenue:  > $1 000 000 ,48%, Downloads:  > 2 000 000 ,14%
+Collect Em All! Clear the Dots, Revenue:  > $500 000 ,84%, Downloads:  > 2 000 000 ,55%
+MobiClean, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+H&M - we love fashion,-,-, Downloads:  > 2 000 000 ,15%
+Miga Town: My World, Revenue:  > $200 000 ,42%, Downloads:  > 2 000 000 ,-
+Zombie Catchers-Undead Shooter, Revenue:  > $10 000 ,28%, Downloads:  > 2 000 000 ,-
+VPN Proxy Speed - Super VPN, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,-
+Americanas: Compras Online,-,-, Downloads:  > 2 000 000 ,-
+Stickman Hook, Revenue:  > $100 000 ,61%, Downloads:  > 1 000 000 ,16%
+Crazy Rush 3D - Car Racing,-,-, Downloads:  > 1 000 000 ,-
+PixelLab - Text on pictures, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,-
+Cube Solver,-,-, Downloads:  > 1 000 000 ,-
+My Dear Farm, Revenue:  > $10 000 ,40%, Downloads:  > 200 000 ,24%
+My Little Universe, Revenue:  > $500 000 ,68%, Downloads:  > 1 000 000 ,30%
+World Of Carrom :3D Board Game, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,-
+"Speed Booster - Junk, Cache",-,-, Downloads:  > 1 000 000 ,-
+SuperVPN Fast VPN Client, Revenue:  > $10 000 ,-, Downloads:  > 2 000 000 ,-
+Lively Zoo,-,-, Downloads:  > 500 000 ,-
+Galaxy Attack: Alien Shooting, Revenue:  > $1 000 000 ,63%, Downloads:  > 2 000 000 ,15%
+Voter Helpline,-,-, Downloads:  > 1 000 000 ,-
+Stickman Warriors - Super Dragon Shadow Fight, Revenue:  > $10 000 ,31%, Downloads:  > 2 000 000 ,-
+FRAG Pro Shooter, Revenue:  > $200 000 ,50%, Downloads:  > 2 000 000 ,-
+My City : Newborn baby, Revenue:  > $5 000 ,15%, Downloads:  > 500 000 ,-
+Super Stylist Fashion Makeover, Revenue:  > $500 000 ,64%, Downloads:  > 2 000 000 ,14%
+My City : My Friend's House, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Construction Ramp Jumping, Revenue:  > $100 000 ,45%, Downloads:  > 2 000 000 ,10%
+Super Mario Run, Revenue:  > $500 000 ,53%, Downloads:  > 2 000 000 ,17%
+Top Widgets-万能小组件, Revenue:  > $200 000 ,-, Downloads:  > 1 000 000 ,-
+Da Fit,-,-, Downloads:  > 2 000 000 ,-
+Video Downloader for Instagram, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Bottle Flip 3D, Revenue:  > $5 000 ,-, Downloads:  > 2 000 000 ,10%
+中国移动（手机营业厅）,-,-, Downloads:  > 1 000 000 ,-
+Real Bike Racing, Revenue:  < $5 000 ,22%, Downloads:  > 2 000 000 ,-
+Pixel Art - color by number, Revenue:  > $200 000 ,49%, Downloads:  > 2 000 000 ,13%
+Kung Fu Karate Fighting Games, Revenue:  < $5 000 ,17%, Downloads:  > 2 000 000 ,-
+Furnish Up!,-,-, Downloads:  > 1 000 000 ,19%
+Craft Sword Mini Fun,-,-, Downloads:  > 500 000 ,-
+Grand Jail Prison Break Escape, Revenue:  > $5 000 ,44%, Downloads:  > 2 000 000 ,-
+DIY Makeup,-,-, Downloads:  > 2 000 000 ,-
+Steam,-,-, Downloads:  > 1 000 000 ,14%
+DiskDigger photo recovery, Revenue:  > $5 000 ,-, Downloads:  > 2 000 000 ,-
+Save the Doge,-,-, Downloads:  > 500 000 ,-
+ArriveCAN,-,-, Downloads:  > 2 000 000 ,43%
+WAPP Toolbox,-,-, Downloads:  > 2 000 000 ,-
+ONE PIECE Bounty Rush, Revenue:  > $5 000 000 ,-, Downloads:  > 1 000 000 ,-
+Moto Rider GO: Highway Traffic, Revenue:  < $5 000 ,13%, Downloads:  > 1 000 000 ,-
+Muscle Rush - Smash Running,-,-, Downloads:  > 2 000 000 ,-
+Walmart - Shopping & Grocery,-,-, Downloads:  > 2 000 000 ,100%
+Daily Weather, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,-
+Sky Rolling Balls: Balls Games, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,-
+Block Earth Pro Rainbow,-,-, Downloads:  > 500 000 ,-
+Miami Rope Hero Spider Games, Revenue:  < $5 000 ,-, Downloads:  > 2 000 000 ,-
+Automatic Call Recorder, Revenue:  > $5 000 ,20%, Downloads:  > 1 000 000 ,-
+Sword Play! Ninja Slice Runner, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,12%
+Merge Animals 3D - Mutant race,-,-, Downloads:  > 2 000 000 ,10%
+foodpanda: Food & Groceries,-,-, Downloads:  > 2 000 000 ,-
+Geometry Dash SubZero,-,-, Downloads:  > 2 000 000 ,-
+Cut and Paste Photos, Revenue:  > $10 000 ,15%, Downloads:  > 1 000 000 ,-
+Crafting and Building,-,-, Downloads:  > 2 000 000 ,-
+VooV Meeting, Revenue:  > $100 000 ,-, Downloads:  > 2 000 000 ,-
+Deliver It 3D, Revenue:  > $100 000 ,71%, Downloads:  > 2 000 000 ,10%
+Super Cloner 3D, Revenue:  < $5 000 ,-, Downloads:  > 1 000 000 ,11%
+Galaxiga Arcade Shooting Game, Revenue:  > $1 000 000 ,61%, Downloads:  > 2 000 000 ,19%
+Mini Block Craft,-,-, Downloads:  > 2 000 000 ,-
+MILLIONAIRE TRIVIA Game Quiz,-,-, Downloads:  > 2 000 000 ,-
+Pipa Combate 3D - Kite Flying,-,-,-,-
+PPSSPP - PSP emulator, Revenue:  > $10 000 ,30%, Downloads:  > 1 000 000 ,-
+Garena Moonlight Blade, Revenue:  > $200 000 ,-, Downloads:  > 200 000 ,-
+Bus Simulator Indonesia,-,-, Downloads:  > 2 000 000 ,-
+Granny 3,-,-, Downloads:  > 2 000 000 ,-
+War Robots Multiplayer Battles, Revenue:  > $5 000 000 ,41%, Downloads:  > 2 000 000 ,-
+Cadastro Único,-,-, Downloads:  > 1 000 000 ,-
+王者荣耀, Revenue:  > $100 000 000 ,-, Downloads:  > 2 000 000 ,-
+Swift booster - fast clean,-,-, Downloads:  > 1 000 000 ,-
+Launcher iOS 16,-,-, Downloads:  > 1 000 000 ,-
+Tricky Quiz: DOP Brain Puzzle,-,-, Downloads:  > 2 000 000 ,-
+Venmo,-,-, Downloads:  > 1 000 000 ,100%
+Real Racing  3, Revenue:  > $500 000 ,36%, Downloads:  > 2 000 000 ,-
+Azar - Video Chat, Revenue:  > $5 000 000 ,17%, Downloads:  > 2 000 000 ,-
+Family Island™ — Farming game, Revenue:  > $10 000 000 ,47%, Downloads:  > 2 000 000 ,33%
+Pure Sniper: Gun Shooter Games, Revenue:  > $500 000 ,53%, Downloads:  > 1 000 000 ,15%
+Gboard - the Google Keyboard,-,-, Downloads:  > 2 000 000 ,12%
+

@@ -7,11 +7,11 @@ from auth_data import password, username
 import csv
 from selenium.webdriver.common.keys import Keys
 
-with open('GameParse.csv', 'w') as file:
-    writer = csv.writer(file)
-    writer.writerow(
-        ('App name', 'Revenue', 'US percent of revenue', 'Downloads', 'US percent of downloads')
-    )
+# with open('GameParse.csv', 'w', newline='') as file:
+#     writer = csv.writer(file)
+#     writer.writerow(
+#         ('App name', 'Revenue', 'US percent of revenue', 'Downloads', 'US percent of downloads')
+#     )
 
 class GameParse():
 
@@ -71,33 +71,47 @@ class GameParse():
 
         # print(top_apps)
         i = 1
+        t = 6
         app_links = []
         for app in top_apps:
-            if i < 13:
+            if i <= 896:
                 i+=1
                 continue
             app_name = app.find('a', class_ = 'g-app-name').text
             app_link = 'https://appmagic.rocks/' + app.find('a', class_ = 'g-app-name').get('href')
 
-            print(app_link)
+            # print(app_link)
             browser.get(app_link)
-            time.sleep(6)
+
+            if i % 30 == 0 and t!=10:
+                t+=0.5
+
+
+            time.sleep(t)
             html = browser.page_source
 
             soup_link = BS(html, 'lxml')
 
             """
             Загоним следующую часть кода под try т.к попадаются страницы, на которых информация о revenue или downloads(или и том, и о 
-            другом) за последние 30 дней отсутсвует
+            другом) за последние 30 дней отсутсвует. Элементы блоков взаимосвязаны и информацию о 2ом блоке с downloads нужно искать 
+            отталкиваясь от эл-ов 1го блока
             """
             try:
                 count_revenue = soup_link.find('div', class_ = 'head-wrap').find('span', class_ = 'label').text
                 revenue_block = soup_link.find('horizontal-stats', class_ = 'ng-star-inserted')
-                count_downloads = soup_link.find_all('span', class_='label')[len(count_downloads)-1].text
-                download_block = soup_link.find('horizontal-stats', class_='ng-star-inserted').find_next('horizontal-stats', class_='ng-star-inserted')
+
+                #Проверяем существует ли блок с downloads при условии существования блока с revenue
+                try:
+                    count_downloads = soup_link.find('div', class_ = 'head-wrap').find_next('div', class_ = 'head-wrap').find('span', class_ = 'label').text
+                    download_block = soup_link.find('horizontal-stats', class_='ng-star-inserted').find_next('horizontal-stats', class_='ng-star-inserted')
+                except:
+                    count_downloads = '-'
+                    download_block = '-'
+
+
                 if revenue_block.text.count('United States') != 0:
 
-                    # print(revenue_block.text.find('United States'))
                     countries = revenue_block.find_all('div', class_ = 'stats-label')
                     ctr_percents = revenue_block.find_all('div', class_ = 'percent')
                     k = 0
@@ -105,25 +119,29 @@ class GameParse():
                         c = country.text.strip()
                         if c == 'United States':
                             revenue_index = k
-                            USA = c
                             revenue_percent = ctr_percents[revenue_index].text
-                            # print(USA, revenue_percent)
                         k+=1
                 else:
                     revenue_percent = '-'
             except:
                 count_revenue = '-'
                 revenue_percent = '-'
-            """
-            Если информации о revenue нет, то ставим "-" в соответствующей переменных и проверям на наличие информации 
-            2-ой блок  
-            """
+                """
+                Если информации о revenue нет, то ставим "-" в соответствующих переменных и проверям на наличие информации 
+                2-ой блок  
+                """
                 try:
                     count_downloads = soup_link.find('span', class_ = 'label').text
                     download_block = soup_link.find('horizontal-stats', class_='ng-star-inserted')
                 except:
                     count_downloads = '-'
                     download_block = ''
+                    with open('GameParse.csv', 'a', encoding='utf-8', newline='') as file:
+                        writer = csv.writer(file)
+                        writer.writerow(
+                            (app_name, count_revenue, revenue_percent, count_downloads, dwn_percent)
+                        )
+                    continue
 
             if download_block.text.count('United States') != 0:
 
@@ -143,7 +161,7 @@ class GameParse():
                 dwn_percent = '-'
 
             print(app_name, count_revenue , revenue_percent, count_downloads, dwn_percent)
-            with open('GameParse.csv', 'a', encoding='utf-8') as file:
+            with open('GameParse.csv', 'a', encoding='utf-8', newline='') as file:
                 writer = csv.writer(file)
                 writer.writerow(
                     (app_name, count_revenue , revenue_percent, count_downloads, dwn_percent)
@@ -151,6 +169,9 @@ class GameParse():
 
 
             i+=1
+            if i % 50 == 0:
+                # screen_unsleep = browser.find_element(by.XPATH, '/html/body/app-root/layout/div[2]/app-page/app-info-dialog/div[1]/div[1]/div[1]/div[2]/div[1]/div').click()
+                time.sleep(15)
             if i == 1001:
                 break
 
