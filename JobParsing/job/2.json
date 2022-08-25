@@ -1,0 +1,134 @@
+{
+    "canEdit": false,
+    "is_closed": false,
+    "id": 32243835,
+    "id_client": 0,
+    "payment_from": 80000,
+    "payment_to": 0,
+    "date_pub_to": 1662883179,
+    "date_archived": 1643462103,
+    "date_published": 1660291179,
+    "address": null,
+    "profession": "Водитель на Газель",
+    "work": null,
+    "compensation": null,
+    "candidat": "Обязанности:\n\n- Грузоперевозки Москва и ближайшие области\n- Перевозка разных грузов, с разных районов\n- Редкие командировки\n\nТребования:\n\n- Водитель РФ\n- Наличие минимального опыта\n\nУсловия:\n\n- ЗП 60000 оклад+ надбавки+ командировочные+ переработки\n- График с 09:00 до 18:00\n- Оплачиваемая сотовая связь\n- График пн по пт\n\n- Официальное трудоустройство\n\nМашина домашняя, стоянка оплачивается\n\n\nПросьба откликаться на вакансию и высылать резюме, с заинтересовавшими кандидатами свяжутся и пригласят на собеседование",
+    "metro": [
+        {
+            "id": 14,
+            "title": "Фрунзенская",
+            "id_metro_line": 1
+        }
+    ],
+    "currency": "rub",
+    "vacancyRichText": "<b>Обязанности:</b><br /><br />- Грузоперевозки Москва и ближайшие области<br />- Перевозка разных грузов, с разных районов<p>- Редкие командировки</p><p><br /><b>Требования:</b><br /><br />- Водитель РФ<br />- Наличие минимального опыта<br /><br /><b>Условия:</b><br /><br />-  ЗП 60000 оклад+ надбавки+ командировочные+ переработки</p><p>- График с 09:00 до 18:00</p><p>- Оплачиваемая сотовая связь</p><p>- График пн по пт</p><p><br />- Официальное трудоустройство</p><p><br />Машина домашняя, стоянка оплачивается</p><p><br /></p><p>Просьба откликаться на вакансию и высылать резюме, с заинтересовавшими  кандидатами свяжутся и пригласят на собеседование</p>",
+    "covid_vaccination_requirement": {
+        "id": 1,
+        "title": "Не важно"
+    },
+    "external_url": null,
+    "contact": "Максим",
+    "moveable": false,
+    "agreement": false,
+    "anonymous": true,
+    "is_archive": false,
+    "is_storage": false,
+    "type_of_work": {
+        "id": 6,
+        "title": "Полный рабочий день"
+    },
+    "place_of_work": {
+        "id": 0,
+        "title": "Не имеет значения"
+    },
+    "education": {
+        "id": 0,
+        "title": "Не имеет значения"
+    },
+    "experience": {
+        "id": 1,
+        "title": "Без опыта"
+    },
+    "maritalstatus": {
+        "id": 0,
+        "title": "Не имеет значения"
+    },
+    "children": {
+        "id": 0,
+        "title": "Не имеет значения"
+    },
+    "client": {
+        "industry": []
+    },
+    "languages": [],
+    "driving_licence": [
+        "B"
+    ],
+    "catalogues": [
+        {
+            "id": 86,
+            "title": "Транспорт, логистика, ВЭД",
+            "key": 86,
+            "positions": [
+                {
+                    "id": 88,
+                    "title": "Автоперевозки",
+                    "key": 88
+                },
+                {
+                    "id": 92,
+                    "title": "Логистика",
+                    "key": 92
+                },
+                {
+                    "id": 98,
+                    "title": "Другое",
+                    "key": 98
+                },
+                {
+                    "id": 99,
+                    "title": "Начало карьеры, мало опыта",
+                    "key": 99
+                }
+            ]
+        }
+    ],
+    "agency": {
+        "id": 1,
+        "title": "прямой работодатель"
+    },
+    "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+    },
+    "already_sent_on_vacancy": false,
+    "rejected": false,
+    "response_info": [],
+    "phone": "+7 (916) 5616168",
+    "phones": [
+        {
+            "number": 79165616168,
+            "additionalNumber": null
+        }
+    ],
+    "fax": null,
+    "faxes": null,
+    "favorite": false,
+    "client_logo": null,
+    "highlight": false,
+    "age_from": 0,
+    "age_to": 0,
+    "gender": {
+        "id": 0,
+        "title": "Не имеет значения"
+    },
+    "firm_name": "Транспортные услуги",
+    "firm_activity": "Грузоперевозки",
+    "link": "https://www.superjob.ru/vakansii/voditel-na-gazel-32243835.html",
+    "isBlacklisted": false,
+    "latitude": null,
+    "longitude": null
+}
